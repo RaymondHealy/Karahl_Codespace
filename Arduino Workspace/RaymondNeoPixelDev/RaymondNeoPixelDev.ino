@@ -11,7 +11,7 @@ enum ColorMode {
 //Functions---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 void SetRangeRGB (uint32_t startPixel, uint32_t endPixel, uint32_t red, uint32_t green, uint32_t blue) ;
 void SetRangeHSV(uint32_t startPixel, uint32_t endPixel, float hue, float saturation, float value);
-void SetColorMode (ColorMode color);
+void ColorModeProcess (ColorMode color);
 //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 //Variables---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -40,7 +40,7 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  SetRangeRGB (0, lastPixel, 255, 0, 0);
+  ColorModeProcess(kGreen);
   strip->show();
   modeIteration++;
 }
@@ -61,7 +61,7 @@ void SetRangeHSV(uint32_t startPixel, uint32_t endPixel, float hue, float satura
   SetRangeRGB(startPixel, endPixel, rgb[0], rgb[1], rgb[2]);
 }
 
-void SetColorMode (ColorMode color) {
+void ColorModeProcess (ColorMode color) {
   switch (color) {
     case kRed: {
         SetRangeRGB(0, lastPixel, 255, 0, 0);
