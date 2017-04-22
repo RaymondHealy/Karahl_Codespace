@@ -14,6 +14,7 @@ class NeoPixelUSBController {
 
     String serialIn;
     void Translator (const char * input);
+    void PrintHelpInfo ();
 };
 
 #endif

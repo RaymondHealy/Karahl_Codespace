@@ -9,7 +9,7 @@ NeoPixelController::NeoPixelController(uint32_t pin, float loopSecondsIn, uint8_
   loopSeconds = fabs(loopSecondsIn);
 
   brightnessData = new float [strip->numPixels()];
-  for (uint32_t i = 0; i < strip->numPixels() - 1; i++) {
+  for (uint32_t i = 0; i < strip->numPixels(); i++) {
     brightnessData [i] = 1;
   }
 
@@ -20,208 +20,6 @@ NeoPixelController::NeoPixelController(uint32_t pin, float loopSecondsIn, uint8_
   strip->show();
 }
 
-void NeoPixelController::NeoPixelProcess () {
-  switch (brightnessMode) {
-    case kDashed: {
-        if (pixelsPerSegment < strip->numPixels()) {
-          if (!modeInitialized) {
-            static int numberOfSegments = strip->numPixels() / pixelsPerSegment;
-            for (int i = 0; i < numberOfSegments; i++) {
-              if (i * pixelsPerSegment + pixelsPerSegment / 2 - 1 < strip->numPixels()) {
-                SetRangeBrightness(i * pixelsPerSegment, i * pixelsPerSegment + pixelsPerSegment / 2 - 1, 1);
-              } else {
-                SetRangeBrightness(i * pixelsPerSegment, strip->numPixels() - 1, 1);
-              }
-              if (i * pixelsPerSegment + pixelsPerSegment - 1 < strip->numPixels()) {
-                SetRangeBrightness(i * pixelsPerSegment, i * pixelsPerSegment + pixelsPerSegment - 1, 0);
-              } else {
-                SetRangeBrightness(i * pixelsPerSegment, strip->numPixels() - 1, 0);
-              }
-              modeInitialized = true;
-            }
-          } else {
-            CycleBrightnessData(1);
-          }
-        } else {
-          SetRangeBrightness (0, strip->numPixels() - 1, 1);
-          brightnessMode = kOn;
-        }
-      }
-    case kBlinking: {
-        if (millis() % int(loopSeconds * 1000 + .5) < (loopSeconds * 1000 + .5) / 2) {
-          SetRangeBrightness(0, strip->numPixels() - 1, 0);
-        } else {
-          SetRangeBrightness(0, strip->numPixels() - 1, 1);
-        }
-      }
-      break;
-    case kRollIn: {
-        static uint32_t pixelsFilled = 1;
-        static uint32_t iteration = 0;
-        SetRangeBrightness(0, strip->numPixels() - pixelsFilled, 0);
-        SetRangeBrightness(iteration, iteration, 1);
-
-        if (iteration >= strip->numPixels() - pixelsFilled) {
-          iteration = 0;
-          if (pixelsFilled >= strip->numPixels()) {
-            brightnessMode = kOn;
-            pixelsFilled = 1;
-          } else {
-            pixelsFilled++;
-          }
-        } else {
-          iteration++;
-        }
-      }
-      break;
-    case kRollOut: {
-        static uint32_t pixelsFilled = 1;
-        static uint32_t iteration = 0;
-        SetRangeBrightness(0, strip->numPixels() - pixelsFilled, 1);
-        SetRangeBrightness(iteration, iteration, 0);
-
-        if (iteration >= strip->numPixels() - pixelsFilled) {
-          iteration = 0;
-          if (pixelsFilled >= strip->numPixels()) {
-            brightnessMode = kOff;
-            pixelsFilled = 1;
-          } else {
-            pixelsFilled++;
-          }
-        } else {
-          iteration++;
-        }
-        break;
-      }
-      break;
-    case kRolling: {
-        static uint32_t stage = 0;
-        if (stage == 0) {
-          static uint32_t pixelsFilled = 1;
-          static uint32_t iteration = 0;
-          SetRangeBrightness(0, strip->numPixels() - pixelsFilled, 0);
-          SetRangeBrightness(iteration, iteration, 1);
-
-          if (iteration >= strip->numPixels() - pixelsFilled) {
-            iteration = 0;
-            if (pixelsFilled >= strip->numPixels()) {
-              stage = 1;
-              pixelsFilled = 1;
-            } else {
-              pixelsFilled++;
-            }
-          } else {
-            iteration++;
-          }
-        } else if (stage == 1) {
-          static uint32_t pixelsFilled = 1;
-          static uint32_t iteration = 0;
-          SetRangeBrightness(0, strip->numPixels() - pixelsFilled, 1);
-          SetRangeBrightness(iteration, iteration, 0);
-
-          if (iteration >= strip->numPixels() - pixelsFilled) {
-            iteration = 0;
-            if (pixelsFilled >= strip->numPixels()) {
-              stage = 0;
-              pixelsFilled = 1;
-            } else {
-              pixelsFilled++;
-            }
-          } else {
-            iteration++;
-          }
-        }
-        break;
-      }
-      break;
-    case kBreathing:
-      {
-        float timeLoop = float(millis() % int(loopSeconds * 1000)) / 1000;
-        float timeHalf = float(millis() % int(loopSeconds / 2 * 1000)) / 1000;
-
-        if (timeLoop <= loopSeconds / 2)
-          SetRangeBrightness( 0, strip->numPixels() - 1, (timeHalf * timeHalf) / (loopSeconds / 2 * loopSeconds / 2));
-        else
-          SetRangeBrightness( 0, strip->numPixels() - 1, ((loopSeconds / 2 * loopSeconds / 2) - (timeHalf * timeHalf)) /
-                              (loopSeconds / 2 * loopSeconds / 2));
-      }
-      break;
-    case kOff: {
-        SetRangeBrightness (0, strip->numPixels() - 1, 0);
-      }
-      break;
-    case kOn:
-    default: {
-        SetRangeBrightness (0, strip->numPixels() - 1, 1);
-      }
-      break;
-  }
-  switch (colorMode) {
-    case kRainbowReverse: {
-        float baseHue = float(millis() % int(loopSeconds * 1000)) * -360 / loopSeconds / 1000;
-
-        while (baseHue < 0) {
-          baseHue = 360 - fabs(baseHue);
-        }
-
-
-        for (uint32_t pixel = 0; pixel <= strip->numPixels() - 1; pixel++) {
-          SetRangeHSV(pixel, pixel, baseHue +  pixel * 360 / strip->numPixels(), 1, 1);
-        }
-      }
-      break;
-    case kBrown:
-      SetRangeRGB(0, strip->numPixels() - 1, 93, 21, 0);
-      break;
-    case kQuasics:
-      SetRangeHSV(0, strip->numPixels() - 1, 120, 1, .62);
-      break;
-    case kYellow:
-      SetRangeRGB(0, strip->numPixels() - 1, 255, 255, 0);
-      break;
-    case kRed: {
-        SetRangeRGB(0, strip->numPixels() - 1, 255, 0, 0);
-      }
-      break;
-    case kGreen: {
-        SetRangeRGB(0, strip->numPixels() - 1, 0, 255, 0);
-      }
-      break;
-    case kBlue: {
-        SetRangeRGB(0, strip->numPixels() - 1, 0, 0, 255);
-      }
-      break;
-    case kWhite: {
-        SetRangeRGB(0, strip->numPixels() - 1, 255, 255, 255);
-      }
-      break;
-    case kRainbow: {
-        float baseHue = float(millis() % int(loopSeconds * 1000)) * 360 / loopSeconds / 1000;
-
-        while (baseHue < 0) {
-          baseHue = 360 - fabs(baseHue);
-        }
-
-
-        for (uint32_t pixel = 0; pixel <= strip->numPixels() - 1; pixel++) {
-          SetRangeHSV(pixel, pixel, baseHue +  pixel * 360 / strip->numPixels(), 1, 1);
-        }
-      }
-      break;
-    case kOldCycle: {
-        SetRangeHSV(0, strip->numPixels() - 1, deltaHueForCycle * modeIteration, 1, 1);
-        modeIteration = modeIteration % int(360 / deltaHueForCycle);
-      }
-      break;
-    default: {
-        SetRangeRGB(0, strip->numPixels() - 1, 0, 0, 0);
-      }
-      break;
-  }
-
-  modeIteration++;
-  strip->show();
-}
 
 void NeoPixelController::SetColorMode (ColorMode color) {
   colorMode = color;
@@ -252,18 +50,11 @@ void NeoPixelController::SetRangeHSV(uint32_t startPixel, uint32_t endPixel, flo
 void NeoPixelController::CycleBrightnessData (uint32_t numberOfSpaces) {
   numberOfSpaces = numberOfSpaces % strip->numPixels();
   if (numberOfSpaces != 0) {
-    float buf[numberOfSpaces];
-    uint16_t counter = 0;
-    for (uint16_t i = 0; i < numberOfSpaces; i++) {
-      buf[i] = brightnessData[strip->numPixels() - numberOfSpaces + i];
-    }
-    counter = 0;
-    for (uint16_t i = strip->numPixels() - numberOfSpaces; i < strip->numPixels(); i++) {
-      brightnessData[i] = brightnessData[counter];
-      counter++;
-    }
-    for (uint16_t i = 0; i < numberOfSpaces; i++) {
-      brightnessData[i] = buf[i];
+    for (uint32_t i = 1; i <= numberOfSpaces; i++) {
+      float copy[strip->numPixels()];
+      const float firstCell = brightnessData[strip->numPixels() - 1];
+      memmove(brightnessData + 1, brightnessData, (strip->numPixels() - 1) * sizeof(float));
+      brightnessData[0] = firstCell;
     }
   }
 }
@@ -274,7 +65,7 @@ void NeoPixelController::SetRangeBrightness(uint32_t first, uint32_t last, float
 }
 
 void NeoPixelController::CycleColorData (uint32_t numberOfSpaces) {
-  numberOfSpaces = numberOfSpaces % strip->numPixels();
+  numberOfSpaces = numberOfSpaces % strip->numPixels(); 
   if (numberOfSpaces != 0) {
     float buf[numberOfSpaces];
     uint16_t counter = 0;
@@ -300,11 +91,46 @@ float NeoPixelController::LoopTime () {
   return loopSeconds;
 }
 
-void NeoPixelController::SetMaxBrightness (float brightness){
+void NeoPixelController::SetMaxBrightness (float brightness) {
   universalBrightness = brightness;
 }
 
-float NeoPixelController::GetMaxBrightness (){
+float NeoPixelController::GetMaxBrightness () {
   return universalBrightness;
+}
+
+
+uint32_t NeoPixelController::GetPixelsPerSegment () {
+  return pixelsPerSegment;
+}
+
+void NeoPixelController::SetPixelsPerSegment (uint32_t pixels) {
+  if (pixels % 2 != 0) {  //Make the number of pixels a round number
+    if (pixels > pixelsPerSegment) { //increase or decrease with translation direction
+      pixels++;
+    } else {
+      pixels--;
+    }
+  }
+
+  bool atLimit = (pixels > - strip->numPixels() - 2 || pixels < 2); //at min/max?
+  pixels = min(strip->numPixels() - 2, max(2, pixels)); //Cap at min/max
+
+  if (!atLimit) { //if not at the limit
+    bool isIncreasing = pixels > pixelsPerSegment;  //determine whether or not to increment
+
+    while (strip->numPixels() % pixels != 0) {  //do this until the number of pixels is a multiple of the strip length
+      if (isIncreasing) {
+        pixels = pixels + 2;
+      } else {
+        pixels = pixels - 2;
+      }
+    }
+  }
+  pixelsPerSegment = pixels;  //Save the result
+}
+
+uint32_t NeoPixelController::GetStripLength() {
+  return strip->numPixels();  //get the number of pixels in the strip
 }
 

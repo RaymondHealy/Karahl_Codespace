@@ -10,7 +10,7 @@ class NeoPixelController {
     NeoPixelController(uint32_t pin, float loopSeconds, uint8_t brightness, uint32_t stripLength);
     
     enum ColorMode {
-      kNone, kRed, kGreen, kBlue, kWhite, kRainbow, kRainbowReverse, kOldCycle, kYellow, kQuasics, kBrown
+      kNone, kRed, kGreen, kBlue, kWhite, kRainbow, kRainbowReverse, kOldCycle, kYellow, kQuasics, kBrown, kPurple
     };
 
     enum BrightnessMode {
@@ -21,10 +21,13 @@ class NeoPixelController {
     void SetColorMode (ColorMode color);
     void SetBrightnessMode (BrightnessMode brightness);
 
+    uint32_t GetStripLength();
     void SetLoopTime (float seconds);
     float LoopTime ();
     void SetMaxBrightness (float brightness);
     float GetMaxBrightness ();
+    uint32_t GetPixelsPerSegment ();
+    void SetPixelsPerSegment (uint32_t pixels);
     
   private:
     void SetRangeRGB (uint32_t startPixel, uint32_t endPixel, uint32_t red, uint32_t green, uint32_t blue) ;
@@ -32,8 +35,8 @@ class NeoPixelController {
     void CycleBrightnessData (uint32_t numberOfSpaces);
     void CycleColorData (uint32_t numberOfSpaces);
     void SetRangeBrightness(uint32_t first, uint32_t last, float brightnessLevel);
-
-    const uint8_t pixelsPerSegment = 6;
+    
+    uint32_t pixelsPerSegment = 6;
     float loopSeconds;
     const float deltaHueForCycle = 2.5;
 

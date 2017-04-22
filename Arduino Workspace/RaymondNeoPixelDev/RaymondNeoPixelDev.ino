@@ -1,7 +1,7 @@
 //#include "NeoPixelSerialController.h"
 #include "NeoPixelUSBController.h"
 #include "Arduino.h"
-#define PracticeBoard
+//#define PracticeBoard
 
 //Variables---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 const uint32_t delayMS = 0;
@@ -24,7 +24,5 @@ void setup() {
 }
 
 void loop() {
-
   strip->NeoPixelSerialProcess();
-  delay(delayMS);
 }
