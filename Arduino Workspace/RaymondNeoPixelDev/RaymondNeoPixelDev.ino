@@ -1,7 +1,8 @@
-//#include "NeoPixelSerialController.h"
-#include "NeoPixelUSBController.h"
 #include "Arduino.h"
-//#define PracticeBoard
+
+#include "NeoPixelUSBController.h"
+
+#define PracticeBoard
 
 //Variables---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 const uint32_t delayMS = 0;
@@ -9,10 +10,11 @@ const uint32_t delayMS = 0;
 
 //Objects-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #ifndef PracticeBoard
-const uint32_t stripLength = 45;
+const uint32_t stripLength = 36;
 #else
 const uint32_t stripLength = 24;
 #endif
+
 const uint32_t pin = 6;
 const uint8_t brightness = 255;
 const float loopLength = 2;

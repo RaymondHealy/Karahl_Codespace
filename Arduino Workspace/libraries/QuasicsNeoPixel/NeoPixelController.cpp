@@ -32,6 +32,10 @@ void NeoPixelController::SetBrightnessMode (BrightnessMode brightness) {
 }
 
 void NeoPixelController::SetRangeRGB (uint32_t startPixel, uint32_t endPixel, uint32_t red, uint32_t green, uint32_t blue) {
+  red = max(0, min(red, 255));
+  green = max(0, min(green, 255));
+  blue = max(0, min(blue, 255));
+
   for (uint32_t pixel = startPixel; pixel <= endPixel; pixel++) {
     strip->setPixelColor (pixel, int(float(red)* brightnessData[pixel] * universalBrightness),
                           int(float(green)* brightnessData[pixel] * universalBrightness),
@@ -65,7 +69,7 @@ void NeoPixelController::SetRangeBrightness(uint32_t first, uint32_t last, float
 }
 
 void NeoPixelController::CycleColorData (uint32_t numberOfSpaces) {
-  numberOfSpaces = numberOfSpaces % strip->numPixels(); 
+  numberOfSpaces = numberOfSpaces % strip->numPixels();
   if (numberOfSpaces != 0) {
     float buf[numberOfSpaces];
     uint16_t counter = 0;
@@ -105,10 +109,31 @@ uint32_t NeoPixelController::GetPixelsPerSegment () {
 }
 
 void NeoPixelController::SetPixelsPerSegment (uint32_t pixels) {
-    pixelsPerSegment = pixels;  
+  if (pixels % 2 != 0) {  //Make the number of pixels a round number
+    if (pixels > pixelsPerSegment) { //increase or decrease with translation direction
+      pixels++;
+    } else {
+      pixels--;
+    }
+  }
+
+  bool atLimit = (pixels > - strip->numPixels() - 2 || pixels < 2); //at min/max?
+  pixels = min(strip->numPixels() - 2, max(2, pixels)); //Cap at min/max
+
+  if (!atLimit) { //if not at the limit
+    bool isIncreasing = pixels > pixelsPerSegment;  //determine whether or not to increment
+
+    while (strip->numPixels() % pixels != 0) {  //do this until the number of pixels is a multiple of the strip length
+      if (isIncreasing) {
+        pixels = pixels + 2;
+      } else {
+        pixels = pixels - 2;
+      }
+    }
+  }
+  pixelsPerSegment = pixels;  //Save the result
 }
 
 uint32_t NeoPixelController::GetStripLength() {
   return strip->numPixels();  //get the number of pixels in the strip
 }
-
