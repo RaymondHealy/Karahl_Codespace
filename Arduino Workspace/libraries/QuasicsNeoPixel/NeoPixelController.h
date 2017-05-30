@@ -14,7 +14,7 @@ class NeoPixelController {
     };
 
     enum BrightnessMode {
-      kOff, kOn, kBreathing, kBlinking, kDashed, kRollIn, kRollOut, kRolling, kSnakeIn, kSnakeOut, kSnake
+      kOff, kOn, kBreathing, kBlinking, kDashed, kRollIn, kRollOut, kRolling, kSnakeIn, kSnakeOut, kSnake, kPSnake
     };
 
     void NeoPixelProcess ();

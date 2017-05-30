@@ -236,6 +236,54 @@ void NeoPixelController::NeoPixelProcess () {
         }
       }
       break;
+    case kPSnake: {
+        uint32_t itterationMS = loopSeconds * 1000 / strip->numPixels();
+        static uint32_t pixelsFilled = 1;
+        static uint32_t lastItterationMS = millis();
+        static uint8_t stage = 0;
+        if (stage == 0) {
+          if (!modeInitialized) {
+            pixelsFilled = 1;
+            lastItterationMS = millis();
+            modeInitialized = true;
+            SetRangeBrightness(1, strip->numPixels(), 0);
+          }
+          if (millis() >= itterationMS + lastItterationMS) {
+            pixelsFilled++;
+            lastItterationMS = millis();
+            SetRangeBrightness (0, pixelsFilled - 1, 1);
+          }
+          if (pixelsFilled >= strip->numPixels()) {
+            stage = 1;
+            pixelsFilled = 1;
+            modeInitialized = false;
+            lastItterationMS = millis();
+          }
+        } else if (stage == 1) {
+          if (lastItterationMS + loopSeconds * 1000 <= millis()) {
+            stage = 2;
+            lastItterationMS = millis();
+          }
+        } else {
+          if (!modeInitialized) {
+            pixelsFilled = 1;
+            lastItterationMS = millis();
+            modeInitialized = true;
+            SetRangeBrightness(1, strip->numPixels(), 1);
+          }
+          if (millis() >= itterationMS + lastItterationMS) {
+            pixelsFilled++;
+            lastItterationMS = millis();
+            SetRangeBrightness (0, pixelsFilled - 1, 0);
+          }
+          if (pixelsFilled >= strip->numPixels()) {
+            stage = 0;
+            pixelsFilled = 1;
+            modeInitialized = false;
+          }
+        }
+      }
+      break;
     case kOn:
     default: {
         SetRangeBrightness (0, strip->numPixels() - 1, 1);
