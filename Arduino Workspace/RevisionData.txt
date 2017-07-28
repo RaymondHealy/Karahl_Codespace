@@ -1,0 +1,53 @@
+Commit 1: 
+	- Initial Commit
+
+Commit 2: 
+	- Added the first version of my NeoPixel Library
+
+Commit 3: 
+	- More work on Neo Pixel, changed some naming
+
+Commit 4: 
+	- More work on NeoPixel Library (more color modes, added brightness modes)
+
+Commit 5: 
+	- Added a Keyword list, moved NeoPixel stuff to its own library.
+	- Added console commands for speed change and brightness change
+
+Commit 6: 
+	- Added A basic Pixy File
+	- Added the pixy libraries
+
+Commit 7: 
+	- Overhaul of NeoPixel Controller
+		- Added dashed mode
+		- Sdded ability to change dash size
+		- Added help command 
+		- Formatted output to be more readable.
+
+Commit 8: 
+	- First test of Keypad
+	- First test of LCD display
+	- Added math game
+	- Tried to make a keypad/lcd menu
+	- NeoPixel Library
+		- Moved to the libraries folder
+		- Added the Streamlined pixels per segment change. 
+		- Separated NeoPixelPatterns into their own file. 
+		- Changed NeoPixelUSB Baud to 19200 (from 115200) for better signal clarity. 
+		- Removed casing dependancy for the Serial prompt. 
+	- Shortened robot neo-pixel strip length in the main robot code
+	- Added a non-serial NeoPixel File, RobotLighting
+	- First cross-test with processing
+
+Commit 9:
+	- Work on LCD/Keypad menu for NeoPixel Control
+	- Worked out problems with the transition to NeoPixel Libraries being universal
+	- Separated Serial and USB control for Quasics NeoPixels
+	
+Commit 10:
+	- Added a super mario brothers theme playing sketch, WIP to make my own version of MIDI
+	
+Commit 11:
+	- Removed LCD projects
+	- Removed Quasics NeoPixel Library
