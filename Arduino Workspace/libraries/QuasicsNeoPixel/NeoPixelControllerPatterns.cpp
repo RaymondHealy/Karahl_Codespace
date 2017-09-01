@@ -293,6 +293,14 @@ void NeoPixelController::NeoPixelProcess () {
 
   //------------------------------------------------------------Color Mode Switch------------------------------------------------------------
   switch (colorMode) {
+	case kBlueNoise{
+		static uint32_t SetNoiseNext = millis();
+		if(!colorInitialized){
+			colorinitialized = true;
+			SetRangeHSV(0, strip->numPixels() - 1, 240, .5, 1);//TODO: Complete this shiz
+		} 
+		
+	}break;
     case kPurple: {
         SetRangeRGB(0, strip->numPixels() - 1, 220, 0, 255);
       }
@@ -310,15 +318,15 @@ void NeoPixelController::NeoPixelProcess () {
         }
       }
       break;
-    case kBrown:
+    case kBrown:{
       SetRangeRGB(0, strip->numPixels() - 1, 54, 27, 0);
-      break;
-    case kQuasics:
+	}break;
+    case kQuasics:{
       SetRangeRGB(0, strip->numPixels() - 1, 6 * .25, 50 * .25, 3.25 * .25);
-      break;
-    case kYellow:
+	break;}
+    case kYellow:{
       SetRangeRGB(0, strip->numPixels() - 1, 255, 200, 0);
-      break;
+	}break;
     case kRed: {
         SetRangeRGB(0, strip->numPixels() - 1, 255, 0, 0);
       }

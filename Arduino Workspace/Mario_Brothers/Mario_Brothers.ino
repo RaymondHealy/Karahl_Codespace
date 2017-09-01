@@ -77,7 +77,7 @@ void playNote ( byte pin, char note, byte octave = 4, bool isSharp = false) {
     }
     unsigned int frequency = notes [index] * pow(2, octave - 4);
 
-    tone (pin, 2*frequency);
+    tone (pin, 2 * frequency);
   }
 }
 void playNoteTimed(byte pin, double beats, char note, byte octave = 4, bool isSharp = false) {
@@ -91,7 +91,7 @@ void playNoteTimed(byte pin, double beats, char note, byte octave = 4, bool isSh
 
 void setup() {
   //Intro
-  
+
   playNoteTimed(6, 1, 'e');
   playNoteTimed(6, 1, 'e');
   playNoteTimed(6, 1, 'r');
@@ -163,8 +163,7 @@ void setup() {
   playNoteTimed(6, 1, 'd', 4);
   playNoteTimed(6, 1, 'b', 3);
   playNoteTimed(6, 2, 'r', 4);
-  
-  
+
   playNoteTimed(6, 2, 'r', 4);
   playNoteTimed(6, 1, 'g', 4);
   playNoteTimed(6, 1, 'f', 4, true);
@@ -180,7 +179,7 @@ void setup() {
   playNoteTimed(6, 1, 'a', 3);
   playNoteTimed(6, 1, 'c', 4);
   playNoteTimed(6, 1, 'd', 4);
-  
+
   playNoteTimed(6, 2, 'r', 3);
   playNoteTimed(6, 1, 'g', 4);
   playNoteTimed(6, 1, 'f', 4, true);
@@ -193,6 +192,36 @@ void setup() {
   playNoteTimed(6, 1, 'r', 4);
   playNoteTimed(6, 1, 'c', 5);
   playNoteTimed(6, 1, 'c', 5);
+  playNoteTimed(6, 3, 'r');
+
+  playNoteTimed(6, 2, 'r', 4);
+  playNoteTimed(6, 1, 'g', 4);
+  playNoteTimed(6, 1, 'f', 4, true);
+  playNoteTimed(6, 1, 'f', 4);
+  playNoteTimed(6, 1, 'd', 4, true);
+  playNoteTimed(6, 1, 'r', 4);
+  playNoteTimed(6, 1, 'e', 4);
+  playNoteTimed(6, 1, 'r', 4);
+  playNoteTimed(6, 1, 'g', 3, true);
+  playNoteTimed(6, 1, 'a', 3);
+  playNoteTimed(6, 1, 'c', 4);
+  playNoteTimed(6, 1, 'r', 3);
+  playNoteTimed(6, 1, 'a', 3);
+  playNoteTimed(6, 1, 'c', 4);
+  playNoteTimed(6, 1, 'd', 4);
+
+  playNoteTimed(6, 1.5, 'r', 4);
+  playNoteTimed(6, 1.5, 'd', 4, true);
+  playNoteTimed(6, 1.5, 'r', 4);
+  playNoteTimed(6, 1.5, 'd', 4);
+  playNoteTimed(6, 1, 'r', 4);
+  playNoteTimed(6, 1.5, 'c', 4);
+  playNoteTimed(6, 1.75, 'r', 4);
+  playNoteTimed(6, 1, 'g', 4);
+  playNoteTimed(6, 1, 'g', 4);
+  playNoteTimed(6, .75, 'r', 4);
+  playNoteTimed(6, 1.25, 'c', 4);
+  playNoteTimed(6, 2.75, 'r', 4);
 }
 
 void loop() {
