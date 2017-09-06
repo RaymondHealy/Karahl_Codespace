@@ -1,4 +1,4 @@
-#include <NeoPixelController.h>
+*#include <NeoPixelController.h>
 
 const uint32_t stripLength = 24;
 const uint32_t pin = 6;
