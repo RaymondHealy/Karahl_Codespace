@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../CS 1/.idea/CS 1.iml" filepath="$PROJECT_DIR$/../../CS 1/.idea/CS 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../.idea/Personal Repository.iml" filepath="$PROJECT_DIR$/../../.idea/Personal Repository.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Turtle Exploration.iml" filepath="$PROJECT_DIR$/.idea/Turtle Exploration.iml" />
     </modules>

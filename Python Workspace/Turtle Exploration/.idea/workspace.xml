@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/../CS 1/Turtle/TurtleShit.py" line="53" mnemonic="9" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="300826dd-484d-4f2a-b02f-7f7bfef2cf73" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -175,13 +172,58 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SimpleFractal.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../CS 1/Recursion/SimpleFractal.py">
+    <leaf>
+      <file leaf-file-name="Raindrops.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../CS 1/Labs/Lab03/Raindrops.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-              <folding />
+            <state relative-caret-position="212">
+              <caret line="111" column="26" lean-forward="true" selection-start-line="111" selection-start-column="26" selection-end-line="111" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#249#259#0" expanded="false" />
+                <element signature="e#341#349#0" expanded="false" />
+                <element signature="e#431#440#0" expanded="false" />
+                <element signature="e#624#948#1" expanded="false" />
+                <element signature="e#978#1053#0" expanded="false" />
+                <element signature="e#1056#1330#1" expanded="false" />
+                <element signature="e#1351#1966#0" expanded="false" />
+                <element signature="e#2148#2620#1" expanded="false" />
+                <element signature="e#2828#3213#0" expanded="false" />
+                <element signature="e#3243#3744#1" expanded="false" />
+                <element signature="e#3787#4601#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RaindropsWithRipples.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../CS 1/Labs/Lab03/RaindropsWithRipples.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="188" column="0" lean-forward="false" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#248#258#0" expanded="false" />
+                <element signature="e#339#347#0" expanded="false" />
+                <element signature="e#428#437#0" expanded="false" />
+                <element signature="e#498#506#0" expanded="false" />
+                <element signature="e#689#1007#1" expanded="false" />
+                <element signature="e#1037#1112#0" expanded="false" />
+                <element signature="e#1114#1384#1" expanded="false" />
+                <element signature="e#1405#2020#0" expanded="false" />
+                <element signature="e#2203#2744#1" expanded="false" />
+                <element signature="e#2818#3622#0" expanded="false" />
+                <element signature="e#3002#3226#0" expanded="false" />
+                <element signature="e#3245#3622#0" expanded="false" />
+                <element signature="e#3624#4256#1" expanded="false" />
+                <element signature="e#4299#5037#0" expanded="false" />
+                <element signature="e#5039#5589#1" expanded="false" />
+                <element signature="e#5660#5957#0" expanded="false" />
+                <element signature="e#5959#6511#1" expanded="false" />
+                <element signature="e#6535#6632#0" expanded="false" />
+                <element signature="e#6725#7136#1" expanded="false" />
+                <element signature="e#7153#7528#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -206,11 +248,15 @@
         <option value="$PROJECT_DIR$/../CS 1/Homeworks/Homework 2/Task1.py" />
         <option value="$PROJECT_DIR$/../CS 1/Turtle/TurtleShit.py" />
         <option value="$PROJECT_DIR$/../CS 1/Recursion/SimpleFractal.py" />
+        <option value="$PROJECT_DIR$/../../CS 1/Labs/Lab3/Part2.py" />
+        <option value="$PROJECT_DIR$/../../CS 1/Labs/Lab3/Raindrops.py" />
+        <option value="$PROJECT_DIR$/../../CS 1/Labs/Lab3/Pond.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="319" />
+    <option name="y" value="-14" />
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
@@ -256,32 +302,23 @@
           <expand>
             <path>
               <item name="Turtle Exploration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal Repository" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Turtle Exploration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal Repository" type="462c0819:PsiDirectoryNode" />
-              <item name="trunk" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Turtle Exploration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal Repository" type="462c0819:PsiDirectoryNode" />
-              <item name="trunk" type="462c0819:PsiDirectoryNode" />
               <item name="CS 1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Turtle Exploration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal Repository" type="462c0819:PsiDirectoryNode" />
-              <item name="trunk" type="462c0819:PsiDirectoryNode" />
               <item name="CS 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Homeworks" type="462c0819:PsiDirectoryNode" />
+              <item name="In-Class" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Turtle Exploration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal Repository" type="462c0819:PsiDirectoryNode" />
-              <item name="trunk" type="462c0819:PsiDirectoryNode" />
               <item name="CS 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Recursion" type="462c0819:PsiDirectoryNode" />
+              <item name="Labs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Turtle Exploration" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS 1" type="462c0819:PsiDirectoryNode" />
+              <item name="Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -290,7 +327,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CS 1" />
     <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="SearchEverywhereHistoryKey" value="hello&#9;null&#9;null" />
   </component>
@@ -311,20 +348,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SimpleFractal">
-    <configuration name="Homework2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Pond (1)">
+    <configuration name="Pond (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CS 1/Homeworks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../CS 1/Labs/Lab3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Personal Repository" />
-      <option name="SCRIPT_NAME" value="C:\Users\Yogna\Personal Repository\trunk\CS 1\Homeworks\Homework 2\Task1.py" />
+      <module name="CS 1" />
+      <option name="SCRIPT_NAME" value="C:\Users\Yogna\Personal Repository\trunk\CS 1\Labs\Lab3\RaindropsWithRipples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Pond" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../CS 1/Labs/Lab3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CS 1" />
+      <option name="SCRIPT_NAME" value="C:\Users\Yogna\Personal Repository\trunk\CS 1\Labs\Lab3\Raindrops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -380,37 +434,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="card_design" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CS 1/Turtle" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Personal Repository" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../CS 1/Turtle/card_design.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.card_design" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Homework2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Task2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Task 4" />
-      <item index="4" class="java.lang.String" itemvalue="Python.SimpleFractal" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Task2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Task 4" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SimpleFractal" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Pond" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Pond (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.SimpleFractal" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Task 4" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Task2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Homework2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.card_design" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Pond (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Pond" />
+        <item index="2" class="java.lang.String" itemvalue="Python.SimpleFractal" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Task 4" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -432,25 +469,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="697" height="735" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48751837" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17789166" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270142" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852563" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -460,17 +497,17 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852563" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852563" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48751837" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -479,88 +516,20 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="10" />
+      <option name="time" value="22" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../CS 1/Homeworks/Homework 2/Task1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CS 1/Homeworks/Homework 2/Task2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CS 1/Homeworks/Homework 2/Task 4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CS 1/Homeworks/Homework 2/Task1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CS 1/Homeworks/Homework 2/Task2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CS 1/Homeworks/Homework 2/Task 4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="17" lean-forward="true" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CS 1/Turtle/TurtleShit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" column="16" lean-forward="false" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
-          <folding>
-            <element signature="e#208#231#0" expanded="false" />
-            <element signature="e#421#780#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CS 1/Turtle/card_design.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CS 1/Turtle/TurtleShit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#208#231#0" expanded="false" />
-            <element signature="e#421#780#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../CS 1/Homeworks/Homework 2/Task1.py" />
+    <entry file="file://$PROJECT_DIR$/../CS 1/Homeworks/Homework 2/Task2.py" />
+    <entry file="file://$PROJECT_DIR$/../CS 1/Homeworks/Homework 2/Task 4.py" />
+    <entry file="file://$PROJECT_DIR$/../CS 1/Homeworks/Homework 2/Task1.py" />
+    <entry file="file://$PROJECT_DIR$/../CS 1/Homeworks/Homework 2/Task2.py" />
+    <entry file="file://$PROJECT_DIR$/../CS 1/Homeworks/Homework 2/Task 4.py" />
+    <entry file="file://$PROJECT_DIR$/../CS 1/Turtle/TurtleShit.py" />
+    <entry file="file://$PROJECT_DIR$/../CS 1/Turtle/card_design.py" />
+    <entry file="file://$PROJECT_DIR$/../CS 1/Turtle/TurtleShit.py" />
     <entry file="file://$PROJECT_DIR$/TurtleExploration.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -568,13 +537,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../CS 1/Turtle/Shapes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../CS 1/Turtle/Shapes.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/__phello__.foo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -582,53 +545,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../CS 1/Turtle/card_design.py">
+    <entry file="file://$PROJECT_DIR$/../CS 1/Turtle/card_design.py" />
+    <entry file="file://$PROJECT_DIR$/../CS 1/Homeworks/Homework 2/Task1.py" />
+    <entry file="file://$PROJECT_DIR$/../CS 1/Homeworks/Homework 2/Task2.py" />
+    <entry file="file://$PROJECT_DIR$/../CS 1/Homeworks/Homework 2/Task 4.py" />
+    <entry file="file://$PROJECT_DIR$/../CS 1/Turtle/TurtleShit.py" />
+    <entry file="file://$PROJECT_DIR$/../CS 1/Recursion/SimpleFractal.py" />
+    <entry file="file://$PROJECT_DIR$/../../CS 1/In-Class/Turtle/card_design.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CS 1/Homeworks/Homework 2/Task1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="136">
+          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../CS 1/Homeworks/Homework 2/Task2.py">
+    <entry file="file://$PROJECT_DIR$/../../CS 1/Labs/Lab3/Part2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../CS 1/Homeworks/Homework 2/Task 4.py">
+    <entry file="file://$PROJECT_DIR$/../../CS 1/Labs/Lab03/Raindrops.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../CS 1/Turtle/TurtleShit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="27" column="49" lean-forward="true" selection-start-line="27" selection-start-column="49" selection-end-line="28" selection-end-column="12" />
+        <state relative-caret-position="212">
+          <caret line="111" column="26" lean-forward="true" selection-start-line="111" selection-start-column="26" selection-end-line="111" selection-end-column="26" />
           <folding>
-            <element signature="e#208#231#0" expanded="false" />
-            <element signature="e#421#780#0" expanded="false" />
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#249#259#0" expanded="false" />
+            <element signature="e#341#349#0" expanded="false" />
+            <element signature="e#431#440#0" expanded="false" />
+            <element signature="e#624#948#1" expanded="false" />
+            <element signature="e#978#1053#0" expanded="false" />
+            <element signature="e#1056#1330#1" expanded="false" />
+            <element signature="e#1351#1966#0" expanded="false" />
+            <element signature="e#2148#2620#1" expanded="false" />
+            <element signature="e#2828#3213#0" expanded="false" />
+            <element signature="e#3243#3744#1" expanded="false" />
+            <element signature="e#3787#4601#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../CS 1/Recursion/SimpleFractal.py">
+    <entry file="file://$PROJECT_DIR$/../../CS 1/Labs/Lab03/RaindropsWithRipples.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-          <folding />
+        <state relative-caret-position="731">
+          <caret line="188" column="0" lean-forward="false" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#248#258#0" expanded="false" />
+            <element signature="e#339#347#0" expanded="false" />
+            <element signature="e#428#437#0" expanded="false" />
+            <element signature="e#498#506#0" expanded="false" />
+            <element signature="e#689#1007#1" expanded="false" />
+            <element signature="e#1037#1112#0" expanded="false" />
+            <element signature="e#1114#1384#1" expanded="false" />
+            <element signature="e#1405#2020#0" expanded="false" />
+            <element signature="e#2203#2744#1" expanded="false" />
+            <element signature="e#2818#3622#0" expanded="false" />
+            <element signature="e#3002#3226#0" expanded="false" />
+            <element signature="e#3245#3622#0" expanded="false" />
+            <element signature="e#3624#4256#1" expanded="false" />
+            <element signature="e#4299#5037#0" expanded="false" />
+            <element signature="e#5039#5589#1" expanded="false" />
+            <element signature="e#5660#5957#0" expanded="false" />
+            <element signature="e#5959#6511#1" expanded="false" />
+            <element signature="e#6535#6632#0" expanded="false" />
+            <element signature="e#6725#7136#1" expanded="false" />
+            <element signature="e#7153#7528#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
