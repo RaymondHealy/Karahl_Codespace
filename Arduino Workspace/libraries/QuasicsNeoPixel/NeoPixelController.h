@@ -5,10 +5,13 @@
 #include <Adafruit_NeoPixel.h>
 #include <RGBConverter.h>
 
+#define NEOPIXEL_RGBW_RING_TYPE   (NEO_GRBW + NEO_KHZ800)
+#define NEOPIXEL_RGB_STRIP_TYPE   (NEO_GRB + NEO_KHZ800)
+
 class NeoPixelController {
 public:
-	NeoPixelController(uint32_t pin, float loopSeconds, 
-		uint8_t brightness, uint32_t stripLength);		//Constructor
+  NeoPixelController(uint32_t pin, float loopSeconds, uint8_t brightness, uint32_t stripLength,
+                     neoPixelType type = NEOPIXEL_RGB_STRIP_TYPE);
 	
 	//--------------------------------------------------------------------Enums--------------------------------------------------------------------
 	enum ColorMode {		//Pre-programmed color paterns

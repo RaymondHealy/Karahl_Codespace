@@ -1,6 +1,6 @@
 #include "NeoPixelController.h"
-NeoPixelController::NeoPixelController(uint32_t pin, float loopSecondsIn, uint8_t brightness, uint32_t stripLength) {
-	strip = new Adafruit_NeoPixel(stripLength, pin, NEO_GRB + NEO_KHZ800);
+NeoPixelController::NeoPixelController(uint32_t pin, float loopSecondsIn, uint8_t brightness, uint32_t stripLength, neoPixelType type) {
+  strip = new Adafruit_NeoPixel(stripLength, pin, type);
 
 	modeIteration = 0;
 	colorInitialized = 0;
