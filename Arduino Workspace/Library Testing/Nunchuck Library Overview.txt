@@ -1,0 +1,68 @@
+Part Of WiiChuck
+
+--------------------------<Setup>---------------------------
+	Nunchuck(uint8_t SDA_Data_Pin, uint8_t SCL_Clk_Pin);
+		* Constructor for the Nunchuck itself.
+		* SDA: I2C data pin, default to "SDA"
+		* SCL: I2C clock pin, default to "SCL"
+
+	addMap(new Nunchuck::joyX(uint8_t chan, uint8_t max, 
+			uint8_t zero, uint8_t min));
+		* Maps the X-axis of the joystick
+		* Channel 5
+		* Defaults: 5, 200, 128, 10
+
+	addMap(new Nunchuck::joyY(uint8_t chan, uint8_t max, 
+			uint8_t zero, uint8_t min));
+		* Maps the Y-axis of the joystick
+		* Channel 6
+		* Defaults: 6, 200, 128, 10
+
+	addMap(new Nunchuck::buttonZ(uint8_t chan, uint8_t max, 
+			uint8_t zero, uint8_t min));
+		* Maps the Z button of the joystick
+		* Channel 7
+		* Defaults: 7, 200, 128, 10
+
+	addMap(new Nunchuck::buttonC(uint8_t chan, uint8_t max, 
+			uint8_t zero, uint8_t min));
+		* Maps the C button of the joystick
+		* Channel 8
+		* Defaults: 8, 200, 128, 10
+
+-------------------------<Reading>--------------------------
+	getJoyX();
+		* Returns an integer value for the Joystick's
+		  X-Axis
+		* Range determined by the joyX Constructor
+	
+	getJoyY();
+		* Returns an integer value for the Joystick's
+		  Y-Axis
+		* Range determined by the joyY Constructor
+
+	int getRollAngle();
+
+		* Returns an integer value for the Nunchuck's
+		  Roll
+		* Range determined by the roll Constructor
+
+	int getPitchAngle();
+
+		* Returns an integer value for the Nunchuck's
+		  Pitch
+		* Range determined by the pitch Constructor
+	
+	int getAccelX();
+    
+		* Returns an integer value for the Nunchuck's
+		  X-Axis acceleration
+
+	int getAccelY();
+
+		* Returns an integer value for the Nunchuck's
+		  Y-Axis acceleration
+    
+	int getAccelZ();
+		* Returns an integer value for the Nunchuck's
+		  Z-Axis acceleration	
