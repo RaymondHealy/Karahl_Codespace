@@ -29,21 +29,29 @@ def zigzag(length, depth):
         t.rt(90)
         t.fd(length)
         zigzag(length / 2, depth - 1)
+        if depth % 2 == 0:
+            t.pencolor("#00ff00")
+        else:
+            t.pencolor("#ff0000")
         t.bk(length)
         t.rt(90)
         t.fd(length)
         t.lt(90)
         t.bk(length)
         zigzag(length / 2, depth - 1)
+        if depth % 2 == 0:
+            t.pencolor("#00ff00")
+        else:
+            t.pencolor("#ff0000")
         t.fd(length)
         t.lt(90)
         t.fd(length / 2)
         t.rt(90)
 
     if depth % 2 == 0:
-        t.pencolor("#00ff00")
-    else:
         t.pencolor("#ff0000")
+    else:
+        t.pencolor("#00ff00")
 
     t.rt(90)
 
@@ -56,9 +64,12 @@ def main():
     Description: Makes a zig-sag style fractal with red and green coloring, leg length and depth
                  determined through user prompt
     """
+    t.tracer(0,0)
     t.speed(0)
     t.right(45)
-    zigzag(int(input("Leg Length: ")), int(input("Recursion Depth: ")))
+    #zigzag(int(input("Leg Length: ")), int(input("Recursion Depth: ")))
+    zigzag(200, 10)
+    t.update
     t.done()
 
 
