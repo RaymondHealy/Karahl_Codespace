@@ -1,8 +1,9 @@
+from time import *
 from random import *
 
 def quickSelect(lst, orderFrom0):
     k = orderFrom0
-    pivot = lst[len(lst)//2]
+    pivot = lst[randint(0, len(lst) - 1)]
     smallerList = []
     largerList = []
     count = 0
@@ -32,16 +33,37 @@ def location(lst):
         median = (quickSelect(lst, len(lst)//2) + quickSelect(lst, len(lst)//2-1))/2
     return median
 
+def parseTxtList (filename):
+    distances = []
 
+    with open(filename) as f:
+        lines = f.readlines()
 
-def main(listLength = 0):
-    lst = []
-    if listLength > 0:
-        for i in range(listLength):
-            lst += randint(0, 200)
-    else:
-        lst = [1, 10, 38, 214]
+        for line in lines:
+            distances += [float(line.split()[1])]
+    return distances
 
-    print(location(lst))
+def main(timesToRun = 20):
+    lst = parseTxtList('TestList.txt')
+    start = time()
+    loc = location(lst)
+    end = time()
+
+    total = 0
+    for item in lst:
+        total += abs(loc - item)
+    avgDist = total / len(lst)
+
+    print("Optimum Location        : ", loc)
+    print("Average Distance to Loc : ", avgDist, "\n")
+
+    total = 0
+    for i in range(timesToRun):
+        total += end - start
+        print("Time to Find            : ", end - start, " seconds")
+        start = time()
+        location(lst)
+        end = time()
+    print("\nAverage Time            : ", total / timesToRun, " seconds")
 
 main()

@@ -1,5 +1,5 @@
 #include "NeoPixelSerialController.h"
-
+#ifndef UNO
 NeoPixelSerialController::NeoPixelSerialController (uint32_t pin, float loopSeconds, uint8_t brightness, uint32_t stripLength) {
   strip = new NeoPixelController (pin, loopSeconds, brightness, stripLength);
   Serial1.begin(115200);
@@ -60,4 +60,5 @@ void NeoPixelSerialController::Translator (const char * input){
     strip->SetColorMode(NeoPixelController::kNone);
    }
 }
+#endif //UNO
 

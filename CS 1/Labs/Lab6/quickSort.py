@@ -1,3 +1,5 @@
+from random import *
+
 """
 file: quickSort.py
 version: python3
@@ -13,7 +15,7 @@ def quickSort( L ):
     if L == []:
         return []
     else:
-        pivot = L[0]
+        pivot = L[randint(0, len(L) - 1)]
         ( less, same, more ) = partition( pivot, L )
         return quickSort( less ) + same + quickSort( more )
 

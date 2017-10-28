@@ -4,6 +4,7 @@
 #include "NeoPixelController.h"
 #include "Arduino.h"
 
+#ifndef UNO
 class NeoPixelSerialController {
   public:
     NeoPixelSerialController (uint32_t pin, float loopSeconds, uint8_t brightness, uint32_t stripLength);
@@ -14,5 +15,5 @@ class NeoPixelSerialController {
 
     void Translator (const char * input);
 };
-
+#endif //UNO
 #endif

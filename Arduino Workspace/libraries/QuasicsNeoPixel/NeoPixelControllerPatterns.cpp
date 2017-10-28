@@ -293,10 +293,10 @@ void NeoPixelController::NeoPixelProcess () {
 
   //------------------------------------------------------------Color Mode Switch------------------------------------------------------------
   switch (colorMode) {
-	case kBlueNoise{
+	case kBlueNoise: {
 		static uint32_t SetNoiseNext = millis();
 		if(!colorInitialized){
-			colorinitialized = true;
+			colorInitialized = true;
 			SetRangeHSV(0, strip->numPixels() - 1, 240, .5, 1);//TODO: Complete this shiz
 		} 
 		
