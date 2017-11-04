@@ -3,7 +3,7 @@
 
 const uint32_t stripLength = 24;
 const uint32_t pin = 6;
-const uint8_t brightness = 64;
+const uint8_t brightness = 2;
 const float loopLength = 2.5;
 NeoPixelController* strip;
 

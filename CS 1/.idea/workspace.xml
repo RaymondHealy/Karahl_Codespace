@@ -15,51 +15,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="american-english.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homeworks/hw9/american-english.txt">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="data4.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homeworks/hw10/data4.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1006">
-              <caret line="99170" column="7" lean-forward="false" selection-start-line="99170" selection-start-column="7" selection-end-line="99170" selection-end-column="7" />
+            <state relative-caret-position="153">
+              <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="anagram.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Homeworks/hw9/anagram.py">
+      <file leaf-file-name="data5.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Homeworks/hw10/data5.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="101" column="17" lean-forward="false" selection-start-line="101" selection-start-column="17" selection-end-line="101" selection-end-column="17" />
-              <folding>
-                <element signature="e#20#73#1" expanded="false" />
-                <element signature="e#181#306#1" expanded="false" />
-                <element signature="e#333#492#0" expanded="false" />
-                <element signature="e#515#918#0" expanded="false" />
-                <element signature="e#1080#1255#1" expanded="false" />
-                <element signature="e#1293#1568#0" expanded="false" />
-                <element signature="e#1570#1643#1" expanded="false" />
-                <element signature="e#1690#1812#0" expanded="false" />
-                <element signature="e#1814#1950#1" expanded="false" />
-                <element signature="e#2001#2175#0" expanded="false" />
-                <element signature="e#2050#2154#0" expanded="false" />
-                <element signature="e#2177#2298#1" expanded="false" />
-                <element signature="e#2352#2507#0" expanded="false" />
-                <element signature="e#2589#2618#1" expanded="false" />
-                <element signature="e#2867#2997#0" expanded="false" />
-                <element signature="e#3430#3485#0" expanded="false" />
-                <element signature="e#3529#3569#0" expanded="false" />
-                <element signature="e#3596#3701#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="quickSort.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homeworks/hw9/quickSort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
-              <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="355">
+              <caret line="98" column="2" lean-forward="false" selection-start-line="98" selection-start-column="2" selection-end-line="98" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -73,6 +44,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cat</find>
+    </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -96,6 +72,14 @@
         <option value="$PROJECT_DIR$/Labs/Lab6/report.txt" />
         <option value="$PROJECT_DIR$/Homeworks/hw9/american-english.txt" />
         <option value="$PROJECT_DIR$/Homeworks/hw9/anagram.py" />
+        <option value="$PROJECT_DIR$/Labs/Lab7/items1.txt" />
+        <option value="$PROJECT_DIR$/Labs/Lab7/Lab7.py" />
+        <option value="$PROJECT_DIR$/Homeworks/hw10/test_link_sort.py" />
+        <option value="$PROJECT_DIR$/Homeworks/hw10/data2.txt" />
+        <option value="$PROJECT_DIR$/Homeworks/hw10/link_sort.py" />
+        <option value="$PROJECT_DIR$/Homeworks/hw10/data3.txt" />
+        <option value="$PROJECT_DIR$/Homeworks/hw10/data4.txt" />
+        <option value="$PROJECT_DIR$/Homeworks/hw10/data5.txt" />
       </list>
     </option>
   </component>
@@ -112,12 +96,12 @@
             <id />
           </State>
           <State>
-            <id>Python</id>
+            <id>Spelling</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>PyPep8NamingInspection</id>
+            <id>Buildout</id>
           </State>
         </selected-state>
       </profile-state>
@@ -139,6 +123,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,20 +141,23 @@
               <item name="CS 1" type="b2602c69:ProjectViewProjectNode" />
               <item name="CS 1" type="462c0819:PsiDirectoryNode" />
               <item name="Homeworks" type="462c0819:PsiDirectoryNode" />
-              <item name="hw8" type="462c0819:PsiDirectoryNode" />
+              <item name="hw10" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CS 1" type="b2602c69:ProjectViewProjectNode" />
               <item name="CS 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Homeworks" type="462c0819:PsiDirectoryNode" />
-              <item name="hw9" type="462c0819:PsiDirectoryNode" />
+              <item name="Labs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CS 1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CS 1" type="462c0819:PsiDirectoryNode" />
+              <item name="Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,9 +166,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yogna\Personal Repository\trunk\CS 1\Labs\Lab7" />
       <recent name="C:\Users\Yogna\Personal Repository\trunk\CS 1\Exams" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yogna\Personal Repository\trunk\CS 1\Homeworks\hw10" />
       <recent name="C:\Users\Yogna\Personal Repository\trunk\CS 1\Homeworks\hw9" />
       <recent name="C:\Users\Yogna\Personal Repository\trunk\CS 1\Homeworks\hw8" />
     </key>
@@ -196,24 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.anagram">
-    <configuration name="NunchuckPlotter" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Python Workspace/Arduino/Nunckuck Plotter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python Workspace" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Python Workspace/Arduino/Nunckuck Plotter/NunchuckPlotter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.test_link_sort">
     <configuration name="anagram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,6 +201,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CS 1" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/hw9/anagram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="link_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/hw10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CS 1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/hw10/link_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,23 +239,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="sort_compare" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/hw8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CS 1" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/hw8/sort_compare.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="storeLocation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,20 +256,37 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="test_link_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homeworks/hw10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CS 1" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homeworks/hw10/test_link_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.NunchuckPlotter" />
-      <item index="1" class="java.lang.String" itemvalue="Python.sort_compare" />
-      <item index="2" class="java.lang.String" itemvalue="Python.selectMedian" />
-      <item index="3" class="java.lang.String" itemvalue="Python.storeLocation" />
-      <item index="4" class="java.lang.String" itemvalue="Python.anagram" />
+      <item index="0" class="java.lang.String" itemvalue="Python.selectMedian" />
+      <item index="1" class="java.lang.String" itemvalue="Python.storeLocation" />
+      <item index="2" class="java.lang.String" itemvalue="Python.anagram" />
+      <item index="3" class="java.lang.String" itemvalue="Python.link_sort" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test_link_sort" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.anagram" />
-        <item index="1" class="java.lang.String" itemvalue="Python.selectMedian" />
-        <item index="2" class="java.lang.String" itemvalue="Python.storeLocation" />
-        <item index="3" class="java.lang.String" itemvalue="Python.sort_compare" />
-        <item index="4" class="java.lang.String" itemvalue="Python.NunchuckPlotter" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test_link_sort" />
+        <item index="1" class="java.lang.String" itemvalue="Python.link_sort" />
+        <item index="2" class="java.lang.String" itemvalue="Python.anagram" />
+        <item index="3" class="java.lang.String" itemvalue="Python.selectMedian" />
+        <item index="4" class="java.lang.String" itemvalue="Python.storeLocation" />
       </list>
     </recent_temporary>
   </component>
@@ -318,14 +309,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25844347" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25841874" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3191153" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31753555" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -339,26 +329,6 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3191153" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25844347" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903846" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -375,11 +345,56 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="34" />
+      <option name="time" value="38" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Labs/Lab7/Lab7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+            <element signature="e#306#410#0" expanded="false" />
+            <element signature="e#441#546#0" expanded="false" />
+            <element signature="e#819#1098#0" expanded="false" />
+            <element signature="e#1302#1429#1" expanded="false" />
+            <element signature="e#1466#1786#0" expanded="false" />
+            <element signature="e#1827#2233#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labs/Lab7/items1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homeworks/hw9/american-english.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1685890">
+          <caret line="99170" column="7" lean-forward="false" selection-start-line="99170" selection-start-column="7" selection-end-line="99170" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homeworks/hw9/quickSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homeworks/hw9/anagram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="101" column="17" lean-forward="false" selection-start-line="101" selection-start-column="17" selection-end-line="101" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Homeworks/hw8/sort_compare.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -599,17 +614,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Homeworks/hw9/american-english.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1006">
+        <state relative-caret-position="1685890">
           <caret line="99170" column="7" lean-forward="false" selection-start-line="99170" selection-start-column="7" selection-end-line="99170" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Homeworks/hw9/quickSort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
+        <state relative-caret-position="68">
           <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -631,26 +644,110 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
           <caret line="101" column="17" lean-forward="false" selection-start-line="101" selection-start-column="17" selection-end-line="101" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labs/Lab7/items1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labs/Lab7/Lab7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
           <folding>
-            <element signature="e#20#73#1" expanded="false" />
-            <element signature="e#181#306#1" expanded="false" />
-            <element signature="e#333#492#0" expanded="false" />
-            <element signature="e#515#918#0" expanded="false" />
-            <element signature="e#1080#1255#1" expanded="false" />
-            <element signature="e#1293#1568#0" expanded="false" />
-            <element signature="e#1570#1643#1" expanded="false" />
-            <element signature="e#1690#1812#0" expanded="false" />
-            <element signature="e#1814#1950#1" expanded="false" />
-            <element signature="e#2001#2175#0" expanded="false" />
-            <element signature="e#2050#2154#0" expanded="false" />
-            <element signature="e#2177#2298#1" expanded="false" />
-            <element signature="e#2352#2507#0" expanded="false" />
-            <element signature="e#2589#2618#1" expanded="false" />
-            <element signature="e#2867#2997#0" expanded="false" />
-            <element signature="e#3430#3485#0" expanded="false" />
-            <element signature="e#3529#3569#0" expanded="false" />
-            <element signature="e#3596#3701#0" expanded="false" />
+            <element signature="e#0#21#0" expanded="false" />
+            <element signature="e#306#410#0" expanded="false" />
+            <element signature="e#441#546#0" expanded="false" />
+            <element signature="e#819#1098#0" expanded="false" />
+            <element signature="e#1302#1429#1" expanded="false" />
+            <element signature="e#1466#1786#0" expanded="false" />
+            <element signature="e#1827#2233#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homeworks/hw10/linked_code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="56" column="11" lean-forward="true" selection-start-line="56" selection-start-column="11" selection-end-line="56" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Labs/Lab8/dna.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homeworks/hw10/data1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homeworks/hw10/data2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homeworks/hw10/link_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="66" column="19" lean-forward="false" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+          <folding>
+            <element signature="e#48#197#1" expanded="false" />
+            <element signature="e#247#414#0" expanded="false" />
+            <element signature="e#417#617#1" expanded="false" />
+            <element signature="e#649#751#0" expanded="false" />
+            <element signature="e#754#878#1" expanded="false" />
+            <element signature="e#905#1303#0" expanded="false" />
+            <element signature="e#1306#1314#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homeworks/hw10/test_link_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homeworks/hw10/data3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homeworks/hw10/data4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homeworks/hw10/data5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="98" column="2" lean-forward="false" selection-start-line="98" selection-start-column="2" selection-end-line="98" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
