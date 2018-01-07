@@ -1,0 +1,5 @@
+ABW,Latin America & Caribbean,High income,SNA data for 2000-2011 are updated from official government statistics; 1994-1999 from UN databases. Base year has changed from 1995 to 2000.
+AFG,South Asia,Low income,"Fiscal year end: March 20; reporting period for national accounts data is calendar year, estimated to insure consistency between national accounts and fiscal data. National accounts data are sourced from the IMF and differ from the Central Statistics Organization numbers due to exclusion of the opium economy."
+AGO,Sub-Saharan Africa,Lower middle income,
+ALB,Europe & Central Asia,Upper middle income,
+AND,Europe & Central Asia,High income,WB-3 code changed from ADO to AND to align with ISO code.
