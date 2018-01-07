@@ -1,0 +1,63 @@
+1. The point of the pivot is to divide the list in half. No, it would have worked with any value,
+    and would work with the same average complexity, and the same danger of maximum complexity.
+    The best option is a stochastic (random) pivot.
+
+2.  QuickSelect([], N)      : an empty list. it should return an empty list for any value N
+    QuickSelect([3], 2)     : A list where N is greater than the length of the list. It should
+                                return the smallest number
+
+3.  The List Used is the "testDataSetLarge.txt" suggested in the lab. On average the "QuickSort"
+    ran 41.875851154327395 milliseconds slower than "QuickSelect" over a list of 10,000 entries
+
+    Optimum Location        :  50153.5
+    Average Distance to Loc :  24899.9503
+--------------------------------------<Time To Find For QuickSelect>--------------------------------------
+    Time to Find            :  0.012550115585327148  seconds
+    Time to Find            :  0.010994434356689453  seconds
+    Time to Find            :  0.006015777587890625  seconds
+    Time to Find            :  0.010027170181274414  seconds
+    Time to Find            :  0.009022474288940430  seconds
+    Time to Find            :  0.013034582138061523  seconds
+    Time to Find            :  0.009023904800415039  seconds
+    Time to Find            :  0.011031150817871094  seconds
+    Time to Find            :  0.010560989379882812  seconds
+    Time to Find            :  0.010055065155029297  seconds
+    Time to Find            :  0.010423898696899414  seconds
+    Time to Find            :  0.012060642242431640  seconds
+    Time to Find            :  0.008994340896606445  seconds
+    Time to Find            :  0.011059522628784180  seconds
+    Time to Find            :  0.010999917984008789  seconds
+    Time to Find            :  0.010026454925537110  seconds
+    Time to Find            :  0.008056163787841797  seconds
+    Time to Find            :  0.009991884231567383  seconds
+    Time to Find            :  0.007047414779663086  seconds
+    Time to Find            :  0.010530948638916016  seconds
+
+    Average Time            :  0.010075342655181885  seconds
+----------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------<Time To Find For QuickSort>---------------------------------------
+    Time to Find            :  0.050133228302001950  seconds
+    Time to Find            :  0.053205251693725586  seconds
+    Time to Find            :  0.050104141235351560  seconds
+    Time to Find            :  0.054784297943115234  seconds
+    Time to Find            :  0.051170110702514650  seconds
+    Time to Find            :  0.053697109222412110  seconds
+    Time to Find            :  0.051104784011840820  seconds
+    Time to Find            :  0.051770448684692380  seconds
+    Time to Find            :  0.051612854003906250  seconds
+    Time to Find            :  0.051390647888183594  seconds
+    Time to Find            :  0.051200151443481445  seconds
+    Time to Find            :  0.052169561386108400  seconds
+    Time to Find            :  0.053645849227905270  seconds
+    Time to Find            :  0.051813602447509766  seconds
+    Time to Find            :  0.051669359207153320  seconds
+    Time to Find            :  0.052675485610961914  seconds
+    Time to Find            :  0.052140712738037110  seconds
+    Time to Find            :  0.051135778427124020  seconds
+    Time to Find            :  0.051495313644409180  seconds
+    Time to Find            :  0.052105188369750980  seconds
+
+    Average Time            :  0.051951193809509280  seconds
+----------------------------------------------------------------------------------------------------------
