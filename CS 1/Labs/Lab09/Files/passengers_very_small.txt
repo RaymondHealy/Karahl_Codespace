@@ -1,0 +1,11 @@
+Brett Michael Kirkwood,40011,False
+Austin Wolf,40003,True
+Diana Christina Simmons,30010,False
+Gregg Constantino Miller,30002,True
+Austin Todd Leonardi,20009,False
+Zeke Francis Zwerka,20005,True
+Tyler Christopher Wolf,10004,False
+Frank George Golden,10008,True
+Lucas Becker,40007,True
+Catherine Toper,30006,False
+

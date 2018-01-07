@@ -1,0 +1,1001 @@
+Matthew Martin Phouthavong,10380,False
+Taylor Simmons,40703,True
+Austin Todd Sgambati,30870,False
+Sparsh Lamirande,40159,False
+Victoria Moses,30538,False
+Justin Bradley Ickes,10408,False
+Alexander Elias Melfi,10360,False
+Bridget Stepanida Higgins,40095,False
+Andrew Benjamin Mughal,10896,True
+Drew Michael Peryer Jr,40851,True
+Simon James Dorrell,10512,True
+Rachel Marie Swink,30230,True
+Charles Carnation,30882,False
+Brett Michael Foley,20865,True
+Ally Marie Baba,10648,True
+Joshua D Chung,20277,False
+Brett Michael McMorris,20357,True
+Benjamin M Nguyen,10836,False
+Ji Sook Cruz,30210,True
+Steven A Foley,20565,True
+Joseph C Lockhart,30182,False
+Hunter Ellis Mughal,20245,False
+Justin Bradley Nguyen,30918,True
+Faisal Rashed Pastore III,30714,True
+Patrick Gonzalez,20461,False
+Josh Matthew Sgambati,40739,False
+Blaise Dorrell,20013,True
+Andrew Benjamin Coyne,30578,True
+Cindy Dupree,30770,False
+Lucas James Toper,40727,True
+Alyssa T Foley,20529,True
+Scott Alex Grudzinski,40711,True
+Bendrix Nakuusiaq Nguyen,10428,True
+Frank George Carnation,40823,True
+Lucas James Tucker,20121,True
+Jameson Sztuba,30162,True
+Konce Sunnam Golden,40295,True
+Cole Heisey,20037,True
+Benjamin M Donelly-Higgins,30806,False
+Trevor J Mancini,30614,True
+Thomas Peter Peryer Jr,20961,True
+Will Taylor Feng,20625,False
+Victoria Dorrell,30458,False
+Faisal Rashed Mughal,40787,True
+Zach C Mancini,30494,True
+Srikanth Frauenknecht,40119,True
+Dylan Lockhart,10944,True
+Chris A McMorris,20549,False
+Katie Anne Johnson,30674,True
+Joseph C Pfluke,20773,True
+Patrick Johnson,30158,True
+Mark Anthony Poliwoda,40255,False
+Prionti Dipita Mukundan,30450,False
+Conor Gregory Nasir,30206,False
+Tyler Aramis Moses,40059,False
+Bendrix Nakuusiaq Vantine,20453,True
+Andrew Donelly-Higgins,20081,False
+Austin Donelly-Higgins,30534,True
+Soo Wolf,40011,True
+Ryan Thomas Maloney,40327,True
+Will Taylor Gonzalez,10708,True
+Steven A Gross,30278,True
+Konce Sunnam Bailey,20753,True
+Joseph C Lockhart,20817,False
+Gabi M Gross,40151,False
+Thomas Peter Becker,10120,True
+Tyler Christopher Chung,30106,False
+Alyssa T Simmons,40403,True
+Ryan Daniel Fried,10688,False
+Christian Dupree,10364,False
+Katie Anne Swink,30594,True
+Hunter Ellis Moses,30202,True
+Conor Gregory Harris-Battles,20813,True
+Soo Toper,40967,False
+Matthew Martin Moran,40379,True
+Steven A Moon,30710,False
+Gabi M Nasir,30702,True
+Xian Pastore III,40303,True
+Frank George Chung,40203,False
+Scott Alex Ickes,10004,True
+Brunon Janek Gagliardi,30758,False
+Anjaneya Reynolds,20569,False
+Sean Thomas Maloney,30610,False
+Daniel Eduardo Golden,30154,True
+Katie Anne Foley,10028,True
+Trevor J Toper,20777,False
+Tyler Christopher Grudzinski,20341,True
+Faisal Rashed Heisey,10960,False
+Gregg Constantino Bhardwaj,20729,True
+Srikanth Phouthavong,10684,False
+Gabi M Harris-Battles,20425,True
+Noah Carlton Higgins,30526,True
+Asha Zara Wolf,30878,False
+Joshua D Sgambati,40879,True
+Michael Scott Chung,10992,True
+Andrew Mendoza,30462,False
+Tyler Christopher Johnson,20325,False
+Srikanth Mancini,20445,False
+Rachel Marie Mughal,20165,True
+Josh Matthew McMorris,40747,True
+Matthew Martin Daly,30962,True
+Ryan Daniel Feng,10468,True
+Rachel Marie Chung,20785,True
+Dylan Bailey,30698,False
+Cole Schleicher,30862,True
+Harold Yates Delaney,30034,False
+Tyler Aramis Kinsey,40307,True
+Bendrix Nakuusiaq Tran,20085,False
+Cole Swink,30038,False
+Christian Kinsey,30990,True
+Prionti Dipita Gola,10448,True
+Dylan Hunter Baba,30898,True
+Will Taylor Becker,40979,False
+Blaise Bailey,20929,True
+Katie Anne Golden,10576,True
+Catherine Pastore III,40947,True
+Harold Yates Gola,10988,True
+Cindy Kinsey,30822,False
+Charles Meilunas,30326,True
+Alexander Elias Segraves,10824,False
+Kiera Salls,20093,False
+Christian Mukundan,30810,True
+Will Mason Drake Missel,40907,True
+Dylan Hunter Jackson,10692,False
+Joshua D Sztuba,30310,True
+Xian Grudzinski,30482,False
+Patrick Kozak,40643,False
+Alexander Elias Kozak,20193,True
+Faisal Rashed Foley,20409,False
+Max Maloney,40051,True
+Lucas James Kozak,40211,True
+Harold Yates Gusinov,10084,False
+Cole Nguyen,20181,False
+Brunon Janek Wu,20889,False
+Conor Gregory Chung,40835,False
+Max Ferreira,40735,False
+Ryan Thomas Johnson,30214,False
+Mark Anthony Cruz,40595,True
+Joseph C Galarza,10208,True
+Mark Anthony Vantine,10304,False
+Soo Cruz,20189,True
+Will Mason Drake Miller,30718,True
+Tyler Aramis Feng,40883,False
+Josh Matthew Kinsey,30466,False
+Sparsh Tucker,30498,False
+Simon James Reynolds,10172,False
+Alexander Elias Ickes,40687,True
+Scott Alex Nguyen,20685,True
+Tyler Christopher Bhardwaj,30054,False
+Zeke Francis McMorris,40771,True
+Saulo Revis Heisey,20021,True
+Zeke Francis Delaney,40959,False
+Blaise Johnson,10872,True
+Srikanth Simmons,10912,False
+Tyler Aramis Missel,10352,False
+Cole Swink,20073,True
+Simon James O'Sullivan,30966,False
+Rachel Marie Moon,30150,False
+Zach C Heisey,40015,False
+Brett Michael Leonardi,40803,False
+Konce Sunnam Dorrell,40219,False
+Benjamin M Donelly-Higgins,10864,False
+Alexander Elias O'Sullivan,20597,True
+Matthew Martin Fried,10732,True
+Frank George Zwerka,30306,False
+Sean Thomas Sztuba,20897,True
+Wyatt Denis Clifford,40679,True
+Jameson Pastore III,10508,True
+Jessy Toper,30814,True
+Taylor Tran,30602,True
+Patrick Toper,40899,True
+Matthew Martin Baba,20497,False
+Matthew Martin O'Sullivan,40383,True
+Gregg Constantino Jackson,40639,False
+Kiera Becker,30390,True
+Zach C Higgins,40107,False
+Tyler Aramis Heisey,30798,False
+Steven A Wu,30858,True
+Soo Miller,20129,True
+Sean Thomas Galarza,20045,False
+Brendan Lawrence Sgambati,20765,True
+Kiera Higgins,20125,False
+Joshua D Gola,40891,True
+David Rodrigo Feng,10040,True
+Patrick Chung,10704,True
+Hunter Ellis Zwerka,40047,False
+Steven A Tran,40123,True
+Patrick Frauenknecht,30530,True
+Zeke Francis Salls,30994,False
+Rebecca Tamar Maloney,40527,False
+Christian Zwerka,30842,False
+Charles Dorrell,10804,False
+Lucas Jackson,30746,True
+Tyler Christopher Moon,10656,True
+Matthew Martin Miller,20337,False
+Brett Michael McMorris,20937,True
+Michael Robert Fried,40067,True
+Saulo Revis Pastore III,40671,False
+Noah Carlton Coyne,20397,False
+Zeke Francis Simmons,20893,False
+Austin Todd Leonardi,20581,False
+Ryan Thomas O'Sullivan,10844,True
+Prionti Dipita Meilunas,30418,False
+Jessy Kinsey,30914,False
+Michael Scott Pastore III,10456,True
+Conor Gregory Moon,20393,True
+Blaise Shin,10776,False
+Alexander Elias Baba,20201,False
+Rachel Marie Ickes,20869,True
+Steven A Dupree,40799,True
+Drew Michael Golden,10096,True
+Jessy McGlynn,10624,True
+Ji Sook Zwerka,10920,False
+Lucas James Johnson,10748,True
+Joseph C Lockhart,10696,False
+Zach C Tumati,30030,True
+Kenneth Daniel Gagliardi,20789,False
+Benjamin M Delaney,30114,False
+Srikanth Johnson,40191,True
+Brett Michael Lamirande,20057,True
+Diana Christina Poliwoda,20309,False
+Bridget Stepanida O'Sullivan,40143,True
+Dylan Grudzinski,30014,False
+Brunon Janek Moses,10128,True
+Michael Scott Baba,40611,True
+Faisal Rashed Alzahrany,10596,False
+Harold Yates Johnson,30934,False
+Harold Yates Lamirande,20049,False
+Zeke Francis Gonzalez,10404,False
+Bendrix Nakuusiaq Feng,20949,True
+Ji Sook Salls,40811,True
+Cole Lockhart,40111,True
+Andrew Pastore III,10200,False
+Kiera Donelly-Higgins,10948,False
+Blaise Nguyen,20369,False
+Soo Wolf,20637,False
+Ryan Thomas Pfluke,20837,False
+Hunter Ellis Wolf,40147,False
+Wyatt Denis Carnation,10796,True
+Steven A Frauenknecht,20313,True
+Lucas Nguyen,40435,True
+Chris A Phouthavong,10768,True
+Zeke Francis Quispe,30638,False
+Katie Anne Daly,10316,False
+Srikanth Yakobchuk,30626,False
+Noah Carlton Peryer Jr,40763,True
+Junaid Lamirande,20941,False
+Konce Sunnam Meilunas,10972,True
+Prionti Dipita Pfluke,40455,False
+Gabi M Lamirande,30434,True
+Rebecca Tamar Saad,30294,True
+Austin Todd Daly,30646,True
+Asha Zara Melfi,30282,True
+Michael Robert Galarza,40575,True
+Harold Yates Ferreira,40243,True
+Gregg Constantino Bailey,40919,True
+Max Nasir,20117,True
+Katie Anne Sgambati,30250,True
+Leiah Sztuba,20261,True
+Victoria Peryer Jr,20493,False
+Siddharth Zwerka,40491,True
+Junaid Peryer Jr,30242,False
+Lucas Tumati,20649,False
+Siddharth Fried,10936,True
+Cole Mendoza,20653,False
+Zeke Francis Ickes,10724,True
+Chris A Gross,40647,True
+Lucas James Wolf,20593,True
+Gabi M McMorris,20781,True
+Kenneth Daniel Ickes,40459,False
+Patrick Grudzinski,40843,False
+Xian Kinsey,20673,False
+Ally Marie Miller,20977,True
+Harold Yates Schleicher,40175,False
+Faisal Rashed Gagliardi,40807,True
+Gabi M Simmons,20289,True
+Will Taylor Baba,10932,True
+Andrew Meilunas,10476,False
+David Rodrigo Sgambati,30134,True
+Ryan Thomas Wolf,20025,False
+Jessy Dorrell,40895,True
+Faisal Rashed Bhardwaj,40839,False
+Matthew Martin Gonzalez,40707,True
+Siddharth Baba,30890,True
+Andrew Kinsey,20693,True
+Ryan Thomas McMorris,40675,True
+Zach C Salls,30166,True
+Steven A Kirkwood,20101,False
+Sparsh Wu,30586,True
+Ryan Daniel Quispe,20077,True
+Dylan Hunter McGlynn,20801,False
+Zeke Francis Tumati,30298,False
+Gregg Constantino Mendoza,10324,False
+Zach C O'Sullivan,40831,False
+Trevor J Tucker,10076,False
+Faisal Rashed Bhardwaj,10588,True
+Cole Toper,30314,False
+Ally Marie Becker,30554,False
+Josh Matthew McGlynn,40607,False
+Blaise Swink,20841,False
+David Rodrigo Pfluke,40439,True
+Noah Carlton Johnson,20053,False
+Gabi M Gola,20065,True
+Dylan Poliwoda,40155,False
+Bendrix Nakuusiaq Galarza,20353,False
+Conor Gregory Miller,30474,True
+Cindy Johnson,40743,True
+Michael Scott Coyne,40031,True
+Katie Anne Leonardi,10148,True
+Lucas Bhardwaj,10308,False
+Brett Michael Tran,40503,True
+Soo Peryer Jr,30930,True
+Ryan Thomas Simmons,20545,False
+Parker Robert Tumati,20297,False
+Rachel Marie Wu,10444,False
+Taylor Wolf,20429,True
+Will Taylor Baba,30906,True
+Tyler Aramis Yakobchuk,10244,False
+Saulo Revis Johnson,40419,False
+Gabi M Peryer Jr,40991,True
+Mark Anthony Kirkwood,20621,False
+Daniel Eduardo Quispe,40375,True
+Konce Sunnam Sgambati,10224,False
+Mark Anthony Melfi,10832,False
+Brendan Lawrence Nguyen,10228,True
+Siddharth Maloney,20701,True
+Michael Robert Zwerka,20029,True
+Christian Wolf,20265,True
+Brunon Janek Gagliardi,30042,True
+Dylan Hunter Shin,30330,True
+Scott Alex Gagliardi,40507,True
+Gregg Constantino Higgins,10880,False
+Will Taylor Feng,30010,True
+Faisal Rashed Ickes,30122,True
+Scott Alex Missel,20981,True
+Conor Gregory Moses,10460,True
+Tyler Aramis Sgambati,30050,True
+Katie Anne Lamirande,20877,False
+Josh Matthew Tucker,40755,False
+Zach C Vantine,20257,True
+Ryan Thomas Sgambati,40443,True
+Wyatt Denis Simmons,40079,True
+Brendan Lawrence Quispe,30838,False
+Austin Quispe,20241,False
+Austin Sztuba,30826,False
+Austin Todd Tran,10268,False
+Jameson Gross,20681,True
+Bridget Stepanida Moses,40195,True
+Ji Sook Yakobchuk,40415,False
+Diana Christina Poliwoda,30690,True
+Steven A Ferreira,20829,True
+Lucas James Pfluke,20237,True
+Matthew Martin Coyne,10260,True
+Bendrix Nakuusiaq Feng,30562,False
+Catherine Swink,40511,False
+Taylor Heisey,10900,True
+Sean Thomas Chung,10784,False
+Blaise Moran,30398,True
+Conor Gregory Alzahrany,20657,True
+Austin Becker,20305,False
+Srikanth Mukundan,10928,True
+Lucas James Ferreira,10848,False
+Alyssa T Mukundan,10024,True
+Joseph C Kinsey,20953,True
+Leiah Moses,20641,False
+Jessy Quispe,40003,False
+Will Mason Drake Foley,20793,False
+Frank George Schleicher,30410,False
+Will Mason Drake Sztuba,20665,True
+Gabi M Miller,20329,False
+Austin Higgins,30886,False
+Alexander Elias Leonardi,10424,False
+Jameson Quispe,40795,False
+Diana Christina Higgins,10664,False
+Asha Zara Bissen,10396,True
+Sean Thomas Peryer Jr,20985,False
+Andrew McGlynn,40179,False
+Catherine Bhardwaj,10808,True
+Ji Sook Miller,30354,False
+Xian Sztuba,20145,True
+Joseph C Johnson,10964,True
+Simon James Ferreira,40271,True
+Charles Delaney,20421,True
+Parker Robert Wu,10056,False
+Patrick Swink,40815,False
+Michael Robert Golden,40927,False
+Frank George Reynolds,20885,True
+Hunter Ellis Gagliardi,40631,False
+Conor Gregory Yakobchuk,30226,True
+Austin Todd Poliwoda,20881,True
+Diana Christina Melfi,10876,True
+Max Kirkwood,10288,True
+Cindy Heisey,10856,True
+Ryan Thomas Jackson,30846,False
+Anjaneya Johnson,10232,True
+Justin Bradley Harris-Battles,10916,False
+Benjamin M Lamirande,40231,True
+Rachel Marie Gross,30850,True
+Alexander Elias Clifford,40943,True
+Max Harris-Battles,20677,False
+Kiera Melfi,30098,True
+Christian Zaccaro,10348,True
+Parker Robert Salls,30970,False
+Tyler Aramis Shin,40951,False
+Thomas Peter Maloney,30370,True
+Soo Schleicher,30426,False
+Thomas Peter Saad,30734,False
+Dylan Shin,30926,True
+Ryan Thomas Pfluke,40887,False
+Faisal Rashed Meilunas,30006,True
+Victoria Clifford,20477,True
+Ryan Thomas Mancini,10492,False
+Catherine Pastore III,30270,False
+Brett Michael Lockhart,10728,False
+Frank George Moon,30318,False
+Victoria Ferreira,30362,False
+Xian Foley,10652,False
+Michael Scott Lockhart,20717,False
+Brendan Lawrence Delaney,20589,False
+Andrew Benjamin Toper,40363,True
+Gabi M Salls,40923,True
+Trevor J Becker,10252,True
+Blaise Ickes,30566,False
+Alexander Elias Dupree,30238,True
+Sean Thomas Shin,40699,True
+Joseph C Bissen,30922,False
+David Rodrigo Reynolds,10384,False
+Brunon Janek Leonardi,20301,False
+Daniel Eduardo Nguyen,30938,False
+Ryan Daniel Moon,30058,False
+Ally Marie Sgambati,20553,False
+Wyatt Denis Carnation,30046,True
+Steven A Johnson,20473,True
+Asha Zara Golden,10604,False
+Lucas Maloney,30062,True
+Benjamin M Higgins,20833,True
+Chris A Quispe,20481,True
+Asha Zara Melfi,40599,False
+Charles Kozak,30778,True
+Daniel Eduardo Bailey,10584,False
+Patrick Chung,20097,True
+Blaise Vantine,30138,False
+Cole Grudzinski,30022,True
+Bendrix Nakuusiaq Shin,40655,False
+Katie Anne Coyne,30558,False
+Michael Robert Gola,40451,True
+Blaise Mukundan,40075,True
+Zach C Yakobchuk,20585,True
+Daniel Eduardo Leonardi,10956,False
+Zeke Francis Feng,10548,True
+Charles Clifford,10700,True
+Siddharth Nguyen,30818,True
+Katie Anne Phouthavong,30258,False
+Faisal Rashed Saad,30102,True
+Gregg Constantino Ferreira,40759,False
+Katie Anne Galarza,10580,False
+Tyler Aramis Kirkwood,20561,True
+Ryan Thomas Gross,10816,False
+Taylor Dorrell,20989,True
+Ally Marie Leonardi,10780,True
+Austin Foley,20845,False
+Scott Alex Gola,10892,False
+Cole Mancini,20469,False
+Harold Yates Moran,20381,True
+Lucas Pfluke,10764,True
+Andrew Nasir,40975,False
+Anjaneya Moses,40987,True
+Diana Christina Missel,30090,True
+Rachel Marie Salls,20109,False
+Ryan Daniel Leonardi,40099,False
+Catherine O'Sullivan,20809,False
+Rebecca Tamar Segraves,30382,True
+Alexander Elias Poliwoda,10136,False
+Victoria Fried,30378,True
+Jameson Mancini,40515,False
+Noah Carlton Donelly-Higgins,30254,False
+Dylan Hunter Swink,30506,True
+Steven A Lamirande,30170,True
+Joseph C Heisey,10340,True
+Drew Michael Meilunas,10092,False
+Tyler Christopher Baba,20149,False
+Junaid Gross,30742,False
+Chris A Sztuba,10388,False
+Lucas Becker,40635,False
+Trevor J Miller,30978,True
+Taylor Higgins,10812,True
+Anjaneya Gola,40935,False
+Tyler Aramis Carnation,30190,False
+Parker Robert Gross,30266,False
+Parker Robert Frauenknecht,40615,True
+Leiah Tucker,20385,True
+Mark Anthony Dorrell,10504,True
+Joshua D Poliwoda,30630,False
+Daniel Eduardo Feng,30738,True
+Max Ickes,30274,True
+Taylor Melfi,10160,True
+Sparsh Baba,20721,False
+Asha Zara Gusinov,20217,True
+Austin McGlynn,10868,True
+Tyler Aramis Vantine,30642,False
+Dylan Hunter Nguyen,10212,True
+Kenneth Daniel Maloney,10116,False
+David Rodrigo Kirkwood,40559,True
+Michael Robert Maloney,40871,False
+Hunter Ellis Tumati,20405,True
+Steven A Gagliardi,30142,False
+Cole Nguyen,20689,False
+Sean Thomas Tumati,20141,False
+Alexander Elias Gagliardi,20925,False
+Sparsh Bissen,40071,True
+Prionti Dipita Zwerka,40359,False
+Jessy Sgambati,10436,True
+Diana Christina Wolf,40531,True
+Daniel Eduardo Foley,40411,False
+Lucas James Baba,30346,False
+David Rodrigo Jackson,40875,False
+Drew Michael McMorris,20437,False
+Saulo Revis Harris-Battles,20913,True
+Brendan Lawrence Tran,10828,False
+Bridget Stepanida Salls,40579,False
+Noah Carlton Bailey,10976,True
+Asha Zara Zaccaro,10072,True
+Drew Michael Feng,20197,False
+Steven A Jackson,20005,False
+Siddharth Daly,30654,False
+Zach C McMorris,40035,False
+Dylan Mukundan,40043,False
+Mark Anthony Peryer Jr,40791,True
+Zeke Francis Gross,20797,True
+Austin Todd Vantine,40623,False
+Trevor J Donelly-Higgins,40167,False
+Parker Robert Bailey,10220,True
+Gregg Constantino Sgambati,30290,False
+Rebecca Tamar Sgambati,40995,True
+Brunon Janek Peryer Jr,20377,True
+Chris A Higgins,20489,True
+Ryan Daniel Baba,10788,False
+Victoria Jackson,10264,True
+Sean Thomas Mughal,10528,True
+Christian Kirkwood,40039,False
+Siddharth Bissen,40731,True
+Soo Toper,20669,False
+Lucas Moran,40775,False
+Drew Michael Dorrell,40335,False
+Lucas James Meilunas,30982,False
+Gregg Constantino Grudzinski,30478,False
+Zeke Francis Mendoza,20749,False
+Alexander Elias Johnson,10672,True
+Kenneth Daniel Maloney,10592,True
+Hunter Ellis Mancini,10416,False
+Rachel Marie Chung,10756,True
+Chris A Melfi,40695,True
+Zeke Francis Ickes,10996,False
+Michael Robert Golden,20441,False
+Prionti Dipita Carnation,40199,False
+Joshua D Nguyen,20133,True
+Faisal Rashed Frauenknecht,20573,True
+Ji Sook McGlynn,20517,True
+Joshua D Coyne,40467,True
+Diana Christina Saad,30018,True
+Conor Gregory Segraves,30086,True
+Dylan Pastore III,20457,False
+Frank George Gola,10180,True
+Cindy Maloney,10144,True
+Alyssa T Peryer Jr,40207,True
+Taylor Alzahrany,10132,True
+Diana Christina Gross,10312,True
+Alyssa T Galarza,30910,False
+Siddharth Pastore III,30894,False
+Siddharth McMorris,40227,True
+Junaid Lockhart,10560,False
+Noah Carlton Ickes,40563,False
+Will Taylor Moon,40371,True
+Ryan Thomas Tumati,20345,True
+Ryan Thomas Grudzinski,40659,False
+Patrick Segraves,40751,True
+Ally Marie Simmons,30786,False
+Xian Mancini,10256,True
+Joseph C Baba,10720,True
+Parker Robert Pastore III,10088,True
+Cole Heisey,10296,True
+Konce Sunnam Meilunas,40187,True
+Joseph C Becker,10272,False
+Dylan Moran,30730,True
+Steven A Nguyen,20821,True
+Brunon Janek Salls,10552,True
+Mark Anthony Yakobchuk,10600,False
+Ryan Daniel Tucker,30002,False
+Ally Marie Melfi,30174,False
+Soo Harris-Battles,30542,True
+Alexander Elias Gagliardi,40567,True
+Harold Yates Coyne,20105,False
+Blaise Yakobchuk,40323,True
+Faisal Rashed McGlynn,20945,True
+Prionti Dipita Yakobchuk,30518,True
+Benjamin M Dorrell,20281,True
+Ryan Daniel Vantine,30342,False
+Xian Foley,30186,True
+Saulo Revis Grudzinski,20909,False
+David Rodrigo Chung,40715,True
+Tyler Christopher Leonardi,20229,True
+Srikanth Kozak,20661,True
+Xian Coyne,10904,False
+Catherine Mukundan,10464,True
+Benjamin M Saad,20997,True
+Michael Scott Gonzalez,40135,True
+Benjamin M Mendoza,10060,False
+Noah Carlton Phouthavong,40263,True
+Charles Kozak,10888,False
+Saulo Revis Gusinov,30502,True
+Taylor Carnation,10192,True
+Kenneth Daniel Peryer Jr,20061,False
+Tyler Aramis Phouthavong,10628,False
+Faisal Rashed Peryer Jr,20737,True
+Joseph C Zwerka,10052,True
+Gabi M Bailey,40911,False
+Steven A Gagliardi,10640,False
+Scott Alex McGlynn,20413,False
+Hunter Ellis Gusinov,20205,True
+Tyler Aramis Bissen,10496,False
+Joseph C Higgins,20433,False
+Srikanth Swink,20173,False
+Josh Matthew Feng,30942,True
+Leiah Zwerka,30358,True
+Cole Coyne,40779,False
+Bendrix Nakuusiaq Meilunas,10568,True
+Wyatt Denis Schleicher,30394,True
+Joseph C Jackson,10500,True
+Konce Sunnam Johnson,10712,True
+Christian Pfluke,30782,True
+Ji Sook Miller,30490,True
+Lucas James Vantine,20157,False
+Josh Matthew Daly,40983,True
+Matthew Martin Kinsey,10276,False
+Mark Anthony Quispe,10908,False
+Catherine Kirkwood,30874,True
+Austin Todd Johnson,10744,True
+Junaid Fried,40319,False
+Christian Tucker,40447,False
+Taylor Bailey,30374,False
+Siddharth Meilunas,40223,True
+Blaise Melfi,20137,True
+Catherine Pastore III,10368,False
+Steven A Quispe,40939,True
+Brunon Janek Baba,10752,True
+Michael Scott Dorrell,40523,True
+Christian Maloney,10112,True
+Asha Zara Daly,10980,True
+Lucas Schleicher,20633,True
+Parker Robert Feng,30598,False
+Dylan Hunter Pastore III,40163,True
+Brunon Janek Dorrell,10984,False
+Steven A Gusinov,21001,True
+Noah Carlton Lamirande,20873,False
+Konce Sunnam Lamirande,30262,False
+Brunon Janek Higgins,30094,False
+Mark Anthony Tumati,30334,True
+Max Mancini,10516,True
+Sparsh Gonzalez,30082,False
+Will Taylor Grudzinski,10280,True
+Conor Gregory Segraves,40023,False
+Sparsh O'Sullivan,10044,False
+Michael Scott Sgambati,10100,True
+Taylor Mancini,30686,True
+Konce Sunnam Lockhart,20609,False
+Diana Christina Segraves,20253,True
+Scott Alex Reynolds,40547,True
+Drew Michael Mukundan,30794,False
+Brendan Lawrence Miller,40063,False
+Leiah Bailey,10644,True
+Zach C Grudzinski,40311,False
+Andrew Nguyen,20629,True
+Diana Christina Pfluke,40903,True
+Srikanth Saad,30866,False
+Scott Alex Vantine,10332,True
+Ally Marie Ferreira,10168,False
+Asha Zara Miller,40619,True
+Katie Anne Higgins,40495,False
+Hunter Ellis Fried,10104,True
+Siddharth Dupree,40519,False
+Thomas Peter Zwerka,40999,True
+Sean Thomas Fried,30514,False
+Jameson Mukundan,20861,True
+Gregg Constantino Maloney,10792,True
+Chris A Schleicher,40027,False
+Steven A Kinsey,20613,True
+Michael Scott Bhardwaj,20917,False
+Prionti Dipita Delaney,30246,True
+Josh Matthew Delaney,10080,False
+Harold Yates Daly,10480,True
+Anjaneya Vantine,30470,False
+Mark Anthony Maloney,20541,True
+Srikanth Saad,10660,False
+Sparsh Heisey,40587,False
+Brendan Lawrence Nguyen,30986,True
+David Rodrigo Gola,40691,False
+Blaise Sztuba,20485,False
+Saulo Revis Harris-Battles,20577,True
+Katie Anne Pastore III,30954,False
+Joseph C Dorrell,30026,False
+Hunter Ellis Donelly-Higgins,10236,False
+Soo Maloney,40055,True
+Jameson Donelly-Higgins,10376,True
+Leiah Galarza,10048,True
+Trevor J Gusinov,40663,False
+David Rodrigo Bissen,20089,False
+Matthew Martin Pfluke,30178,False
+Steven A Coyne,40863,True
+Kenneth Daniel Frauenknecht,40239,False
+Thomas Peter Wolf,40431,False
+Brunon Janek Jackson,10616,False
+Benjamin M Ickes,20741,False
+Justin Bradley McMorris,40535,False
+Diana Christina Swink,10140,True
+Austin Todd Tumati,30286,True
+Michael Robert Mendoza,30074,True
+Austin Todd Yakobchuk,20169,True
+Austin Todd Higgins,10372,True
+Will Mason Drake Wolf,40275,True
+Jessy Dorrell,10472,True
+Rachel Marie Gagliardi,10968,True
+Alexander Elias Kozak,30118,False
+Alexander Elias Gagliardi,30618,False
+Michael Scott Baba,10240,True
+Anjaneya Maloney,30194,True
+Joshua D Missel,30902,True
+Andrew Frauenknecht,20957,True
+Taylor Cruz,20705,False
+Sparsh Quispe,10800,True
+Noah Carlton Nguyen,40571,True
+Gregg Constantino Quispe,30582,True
+Matthew Martin Poliwoda,20293,False
+Asha Zara Zwerka,20697,False
+Scott Alex Clifford,10344,False
+Matthew Martin Salls,20317,False
+Joseph C Dupree,20725,False
+Parker Robert Clifford,30590,False
+Joshua D Bhardwaj,20333,True
+Soo Moon,30774,True
+Andrew Benjamin Vantine,40115,False
+Parker Robert Kinsey,10524,False
+Blaise Bailey,40971,False
+Austin Todd Meilunas,20285,False
+Taylor Yakobchuk,30366,False
+Steven A Heisey,30066,False
+Harold Yates Missel,30550,False
+Benjamin M Zwerka,40339,True
+Drew Michael Coyne,20113,True
+Katie Anne Alzahrany,40391,True
+Zach C Simmons,20365,True
+Ally Marie Grudzinski,30198,False
+Josh Matthew Cruz,30386,False
+Ryan Daniel Reynolds,40867,False
+Brett Michael Saad,30706,True
+Alexander Elias Donelly-Higgins,40651,False
+Alexander Elias Toper,40667,True
+Ally Marie Clifford,10608,True
+Brendan Lawrence Phouthavong,40471,True
+Patrick Vantine,10320,False
+Gregg Constantino Schleicher,20645,True
+Leiah Gross,10292,False
+Xian Bhardwaj,10356,False
+Brunon Janek Shin,40019,True
+Andrew Benjamin Lockhart,30998,False
+Cindy O'Sullivan,30442,True
+Will Mason Drake Donelly-Higgins,20041,False
+Max Swink,40683,True
+Trevor J Pfluke,30726,True
+Ally Marie Kozak,30622,False
+Bendrix Nakuusiaq Peryer Jr,10536,False
+Drew Michael Leonardi,30606,False
+Tyler Aramis McMorris,40855,False
+Brett Michael Wu,40091,True
+Saulo Revis Wolf,20449,False
+Austin Clifford,20249,False
+Cole Alzahrany,20465,False
+Benjamin M Clifford,20269,True
+Ally Marie Ferreira,40475,False
+Gabi M Gusinov,40127,False
+Junaid Ickes,10572,False
+Anjaneya Vantine,10452,False
+Andrew Vantine,30790,True
+Justin Bradley Zwerka,10156,False
+Lucas James McGlynn,20213,True
+Conor Gregory Salls,10484,True
+Konce Sunnam Nguyen,40139,True
+Josh Matthew Wolf,30946,True
+Conor Gregory Lockhart,10716,True
+Jessy Sztuba,40551,False
+Ryan Daniel Segraves,40479,False
+Patrick Kirkwood,10036,False
+Frank George Lamirande,40343,True
+Drew Michael Pastore III,30234,True
+Rachel Marie Reynolds,40859,False
+Frank George Lockhart,40235,False
+Katie Anne Lamirande,30958,True
+Rachel Marie Mughal,30422,False
+Leiah Gross,20033,False
+Josh Matthew Cruz,10068,True
+Matthew Martin Fried,20965,True
+Christian Gagliardi,10680,False
+Thomas Peter Schleicher,20713,False
+Ryan Thomas Gagliardi,20509,True
+Gabi M Bissen,10564,True
+Joseph C Lamirande,20605,False
+Srikanth Missel,20905,True
+Steven A McMorris,40487,False
+Dylan Grudzinski,20933,True
+Tyler Christopher Jackson,40087,False
+Will Taylor Frauenknecht,10772,False
+Ally Marie Mancini,20401,True
+Michael Scott Simmons,10152,True
+Frank George Lockhart,30350,True
+Prionti Dipita Lockhart,40279,False
+Josh Matthew Kinsey,20349,False
+Austin Segraves,10420,False
+Saulo Revis Gonzalez,40423,False
+Cole Carnation,30302,True
+Frank George Lamirande,40287,True
+Srikanth Wolf,10544,False
+Anjaneya Dupree,30834,True
+Rachel Marie Carnation,10740,True
+Srikanth Bissen,10016,True
+Siddharth Missel,30950,False
+Josh Matthew Heisey,30678,True
+Blaise Miller,10008,False
+Michael Robert Peryer Jr,30406,True
+Gregg Constantino Ferreira,10124,False
+Noah Carlton Gross,10216,False
+Saulo Revis Moon,40583,True
+Drew Michael Tumati,10488,False
+Lucas James Dupree,40083,False
+Matthew Martin Melfi,30574,False
+Faisal Rashed Gagliardi,30762,True
+Simon James Golden,10884,False
+David Rodrigo Lamirande,40171,False
+Blaise Jackson,30974,True
+Simon James Pastore III,10924,False
+Cindy Lamirande,10188,True
+Andrew Benjamin Alzahrany,20537,True
+Ji Sook Bhardwaj,40719,False
+Wyatt Denis Wu,20557,False
+Austin Todd Johnson,10336,True
+Konce Sunnam Mughal,40347,True
+Zeke Francis Lockhart,40267,False
+Siddharth Swink,10176,False
+Andrew Benjamin Becker,40183,True
+Prionti Dipita Heisey,10196,False
+Bridget Stepanida Galarza,20417,True
+Victoria Moses,10520,False
+Conor Gregory Alzahrany,40591,True
+Simon James Wu,10432,True
+Gabi M Foley,10952,True
+Asha Zara O'Sullivan,30570,False
+Charles Gusinov,10620,True
+Joseph C Meilunas,10020,False
+Sparsh Foley,30722,True
+Will Taylor Gagliardi,20733,True
+Dylan Hunter Bailey,20273,True
+Bendrix Nakuusiaq Tumati,30078,False
+Frank George O'Sullivan,40283,False
+Anjaneya Poliwoda,20521,True
+Bridget Stepanida Tucker,20853,True
+Rachel Marie Quispe,40483,True
+Alyssa T Carnation,20209,False
+Thomas Peter Lamirande,10760,True
+Sparsh Salls,20921,True
+Justin Bradley Nguyen,10736,True
+Michael Robert Yakobchuk,40723,False
+Siddharth Gagliardi,40627,False
+Joshua D Maloney,20501,True
+Cindy Pfluke,10400,False
+Benjamin M Reynolds,30146,False
+Wyatt Denis Gross,20969,True
+Gregg Constantino Melfi,30486,True
+Asha Zara Yakobchuk,40407,True
+Simon James Saad,40539,False
+Rebecca Tamar Saad,30854,True
+Ryan Thomas Pfluke,40395,True
+Steven A Harris-Battles,40215,True
+Conor Gregory Ickes,10532,True
+Trevor J Peryer Jr,30634,False
+Lucas Johnson,30682,False
+Sean Thomas Kozak,30650,True
+Lucas James Wu,20805,True
+Leiah Jackson,40827,False
+Andrew Benjamin Dorrell,40291,False
+Kenneth Daniel Gusinov,20617,True
+Prionti Dipita Bailey,10440,False
+Prionti Dipita Meilunas,30766,False
+Joshua D Kozak,30070,True
+Andrew Benjamin Bailey,30750,True
+Austin Todd Phouthavong,30662,True
+Noah Carlton Schleicher,40931,True
+Dylan Hunter Becker,10012,False
+Michael Scott Bhardwaj,40819,True
+Bendrix Nakuusiaq Dupree,30338,True
+Brendan Lawrence Lockhart,20153,False
+Gabi M Heisey,30454,False
+David Rodrigo Toper,20185,False
+Alexander Elias O'Sullivan,30522,True
+Harold Yates Heisey,20161,False
+David Rodrigo Tran,10064,True
+Parker Robert Dupree,20849,False
+Trevor J Sgambati,10284,True
+Ji Sook Leonardi,10612,True
+Cindy Zaccaro,20017,False
+Patrick O'Sullivan,20525,True
+Zach C Chung,30670,True
+Catherine Mendoza,10860,True
+Siddharth Poliwoda,10820,False
+Frank George Bissen,40259,True
+Tyler Aramis Donelly-Higgins,20233,True
+Trevor J Saad,30510,False
+Brunon Janek Clifford,20513,False
+Alexander Elias Coyne,40331,True
+Xian Tumati,40103,False
+Will Mason Drake Golden,20901,True
+Blaise Chung,20069,False
+Victoria McMorris,20757,False
+Lucas James Carnation,20857,True
+Faisal Rashed Golden,30130,False
+Sparsh Wolf,10840,False
+Michael Robert Gagliardi,40847,True
+Taylor Gola,30658,True
+Ji Sook Gross,10328,True
+Mark Anthony Gonzalez,20009,False
+Kenneth Daniel Gusinov,10412,True
+Jameson Ickes,30430,False
+Bridget Stepanida Salls,30754,True
+Sean Thomas Foley,40555,False
+Rachel Marie Clifford,40399,True
+Frank George Poliwoda,20745,True
+Steven A Donelly-Higgins,10032,False
+Brunon Janek Nguyen,20389,False
+Dylan Mukundan,30438,True
+Brunon Janek Dupree,10300,False
+Gregg Constantino Gonzalez,20505,False
+Zeke Francis Gross,20533,False
+Sean Thomas Foley,40603,False
+Ji Sook Mancini,30414,True
+Austin Todd Heisey,10204,False
+Tyler Christopher McGlynn,40915,False
+Hunter Ellis Kozak,11000,False
+Patrick Poliwoda,40007,True
+Hunter Ellis Saad,40131,True
+Justin Bradley Quispe,10556,True
+Lucas James Lamirande,30402,False
+Blaise Coyne,20225,True
+Drew Michael Leonardi,40427,False
+Rachel Marie Pastore III,40247,False
+Harold Yates Zwerka,20769,False
+Ji Sook Bissen,30218,False
+Joseph C Swink,30322,True
+David Rodrigo Cruz,10540,True
+Zeke Francis Meilunas,40463,True
+Xian Carnation,40955,False
+Gabi M Carnation,20221,True
+Diana Christina Lockhart,20825,False
+Junaid Galarza,40767,True
+Kiera Phouthavong,40499,False
+Tyler Christopher Meilunas,30802,True
+Faisal Rashed Swink,40367,True
+Scott Alex Alzahrany,10940,False
+Will Mason Drake Pastore III,30110,True
+Alexander Elias O'Sullivan,10164,True
+Faisal Rashed Dorrell,30666,True
+Kenneth Daniel Gonzalez,20761,False
+Junaid Chung,20709,False
+Dylan Poliwoda,30694,True
+Katie Anne Zaccaro,10668,True
+Zeke Francis Tumati,40387,True
+Andrew Benjamin Phouthavong,40315,False
+Brunon Janek Johnson,40963,False
+Zeke Francis Quispe,10676,False
+Alexander Elias Jackson,20601,True
+Conor Gregory Baba,20361,True
+Brunon Janek Sgambati,10184,False
+Srikanth Poliwoda,10108,True
+Andrew Reynolds,20993,False
+Bendrix Nakuusiaq Foley,10636,True
+Alyssa T Tran,10392,True
+Tyler Christopher Missel,20373,True
+Asha Zara Chung,10852,True
+Andrew Benjamin Yakobchuk,40351,True
+Joseph C Nasir,40299,False
+Sean Thomas McMorris,30222,True
+Srikanth Foley,40355,True
+Cindy Cruz,20321,True
+David Rodrigo Baba,40783,False
+Katie Anne Tran,40543,True
+Junaid Swink,30126,False
+Andrew Benjamin O'Sullivan,10248,False
+Faisal Rashed Ferreira,40251,False
+Trevor J Golden,10632,True
+Lucas Miller,30830,True
+Andrew Daly,30446,False
+Taylor McMorris,20973,False
+Bendrix Nakuusiaq Bailey,20177,False
+Tyler Aramis Coyne,30546,False
+
