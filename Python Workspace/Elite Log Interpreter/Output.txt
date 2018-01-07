@@ -1,0 +1,1130 @@
+ReceiveText:
+	"From":"Drake Vision", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Solar Fluke;", "From_Localised":"Solar Fluke", "Message":"$SolarFlukeEnemySighted04;", "Message_Localised":"Get away from me you space-crazed psycho!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Solar Fluke;", "From_Localised":"Solar Fluke", "Message":"$SolarFlukeCriticalDamage04;", "Message_Localised":"Stop, you're killing me, please!", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$DockingChatter_Friendly;", "Message_Localised":"It's great to see you again, Commander.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Alanski;", "From_Localised":"Alanski", "Message":"$Smuggler_NearDeath02;", "Message_Localised":"I won't let it end like this!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Patrick Augusto Fraioli;", "From_Localised":"Patrick Augusto Fraioli", "Message":"$Commuter_AuthorityScan04;", "Message_Localised":"Is this really necessary?", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Cummings Port", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Cummings Port", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Cummings Port", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Kyle Taylor;", "From_Localised":"Kyle Taylor", "Message":"$Commuter_AuthorityScan02;", "Message_Localised":"How can I be of assistance?", "Channel":"npc"
+
+	"From":"Cummings Port", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Joshua Lear;", "From_Localised":"Joshua Lear", "Message":"$Commuter_HostileScan04;", "Message_Localised":"This is not the trading ship you are looking for.", "Channel":"npc"
+
+	"From":"Smith Terminal", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Smith Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Smith Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Jim Jubble;", "From_Localised":"Jim Jubble", "Message":"$Commuter_HostileScan05;", "Message_Localised":"Your ship's ID has been logged, any active hostilities will result in criminal charges being brought against you.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Jim Jubble;", "From_Localised":"Jim Jubble", "Message":"$Commuter_AuthorityScan05;", "Message_Localised":"On what grounds are you scanning this vessel, officer?", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Matthew Escher;", "From_Localised":"Matthew Escher", "Message":"$Commuter_AuthorityScan06;", "Message_Localised":"What's going on here, officer?", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Paul Sanders;", "From_Localised":"Paul Sanders", "Message":"$Commuter_AuthorityScan07;", "Message_Localised":"There's no need to scan me, officer. I have nothing to find.", "Channel":"npc"
+
+	"From":"Smith Terminal", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Nobatu;", "From_Localised":"Nobatu", "Message":"$CargoHunter_HunterHostileSC_RelevantPlayer_003;", "Message_Localised":"Target vessel located. Moving to interdict.", "Channel":"npc"
+
+	"From":"Cummings Port", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Cummings Port", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Cummings Port", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Cummings Port", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingFailed_Distance:#distance=7500;", "Message_Localised":"Docking request denied, please approach to 7500m", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Hope Coll;", "From_Localised":"Hope Coll", "Message":"$Commuter_AuthorityScan05;", "Message_Localised":"On what grounds are you scanning this vessel, officer?", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Mar-O;", "From_Localised":"Mar-O", "Message":"$Pirate_StartInterdiction08;", "Message_Localised":"I've found my next target and it's you, Commander.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Nick Lanng;", "From_Localised":"Nick Lanng", "Message":"$Commuter_AuthorityScan05;", "Message_Localised":"On what grounds are you scanning this vessel, officer?", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$cmdr_decorate:#name=Sidman;", "From_Localised":"CMDR Sidman", "Message":"nothing", "Channel":"local"
+
+	"From":"$cmdr_decorate:#name=Sidman;", "From_Localised":"CMDR Sidman", "Message":"move along", "Channel":"local"
+
+	"From":"$cmdr_decorate:#name=Weedy Bongotter;", "From_Localised":"CMDR Weedy Bongotter", "Message":"hello", "Channel":"local"
+
+	"From":"$cmdr_decorate:#name=Mr. Noodles;", "From_Localised":"CMDR Mr. Noodles", "Message":"hi", "Channel":"local"
+
+	"From":"$cmdr_decorate:#name=Weedy Bongotter;", "From_Localised":"CMDR Weedy Bongotter", "Message":"someone is in my parking spot", "Channel":"local"
+
+	"From":"$cmdr_decorate:#name=Weedy Bongotter;", "From_Localised":"CMDR Weedy Bongotter", "Message":"everyone hopeful for 2.4?", "Channel":"local"
+
+	"From":"$cmdr_decorate:#name=Weedy Bongotter;", "From_Localised":"CMDR Weedy Bongotter", "Message":"a bit quiet today", "Channel":"local"
+
+	"From":"$cmdr_decorate:#name=EvilsWay;", "From_Localised":"CMDR EvilsWay", "Message":"ehh assholes aplenty", "Channel":"local"
+
+	"From":"$cmdr_decorate:#name=MOWARRIOR;", "From_Localised":"CMDR MOWARRIOR", "Message":"hello all", "Channel":"local"
+
+	"From":"$cmdr_decorate:#name=Weedy Bongotter;", "From_Localised":"CMDR Weedy Bongotter", "Message":"hello", "Channel":"local"
+
+	"From":"$cmdr_decorate:#name=FlyBoyXD;", "From_Localised":"CMDR FlyBoyXD", "Message":"hullo", "Channel":"local"
+
+	"From":"$cmdr_decorate:#name=Rinzler o7o7o7;", "From_Localised":"CMDR Rinzler o7o7o7", "Message":"yo", "Channel":"local"
+
+	"From":"$cmdr_decorate:#name=Weedy Bongotter;", "From_Localised":"CMDR Weedy Bongotter", "Message":"hows everyone doing today?", "Channel":"local"
+
+	"From":"", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire04;", "Message_Localised":"Your ticket is about to get well and truly punched.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingChatter_Cordial;", "Message_Localised":"Welcome back, Commander.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Aeryn Sun;", "From_Localised":"Aeryn Sun", "Message":"$Commuter_AuthorityScan05;", "Message_Localised":"On what grounds are you scanning this vessel, officer?", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=James Patrick Kelly;", "From_Localised":"James Patrick Kelly", "Message":"$Pirate_HunterHostileSC_Relevant02;", "Message_Localised":"I knew I'd find you eventually, all that tasty cargo!", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingChatter_Cordial;", "Message_Localised":"Welcome back, Commander.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingChatter_Cordial;", "Message_Localised":"Welcome back, Commander.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$cmdr_decorate:#name=THE SPICE MUST FLOW;", "From_Localised":"CMDR THE SPICE MUST FLOW", "Message":"THATS ALWAYS A PROBLEMS DUMB ASSES SIT ON THE LANDING PAD", "Channel":"local"
+
+	"From":"$cmdr_decorate:#name=THE SPICE MUST FLOW;", "From_Localised":"CMDR THE SPICE MUST FLOW", "Message":"DM? whats that?", "Channel":"local"
+
+	"From":"$cmdr_decorate:#name=THE SPICE MUST FLOW;", "From_Localised":"CMDR THE SPICE MUST FLOW", "Message":"idk i dont usually talk to people just shoot at them", "Channel":"local"
+
+	"From":"$cmdr_decorate:#name=Marty Whitehead;", "From_Localised":"CMDR Marty Whitehead", "Message":"stay off the acid lol", "Channel":"local"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_timeexpired;", "Message_Localised":"Docking took too long, permission removed.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingTresspassWarningComms;", "Message_Localised":"Unauthorised access infraction detected, clear starport immediately to avoid lethal response", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingFailed_Offences:#offencetimer=22;", "Message_Localised":"Docking request denied, starport infractions pending (22 seconds remaining)", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingOffenceCleared;", "Message_Localised":"Starport infractions cleared, docking privileges restored.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingChatter_Cordial;", "Message_Localised":"Welcome back, Commander.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_cancelled;", "Message_Localised":"Docking request cancelled.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingFailed_Distance:#distance=7500;", "Message_Localised":"Docking request denied, please approach to 7500m", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingChatter_Cordial;", "Message_Localised":"Welcome back, Commander.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch04;", "Message_Localised":"No crimes detected. You're free to go, Commander.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Jeremy Hunt;", "From_Localised":"Jeremy Hunt", "Message":"$Pirate_HunterHostileSC_Relevant04;", "Message_Localised":"Big haul like that, surprised you made it this far.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Jeremy Hunt;", "From_Localised":"Jeremy Hunt", "Message":"$Pirate_StartInterdiction05;", "Message_Localised":"You have something that I want.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingChatter_Cordial;", "Message_Localised":"Welcome back, Commander.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch08;", "Message_Localised":"All done and you're clear to proceed, Commander.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Shiras Hangar", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Wingrove Port", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Wingrove Port", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Wingrove Port", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Wingrove Port", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingChatter_Cordial;", "Message_Localised":"Welcome back, Commander.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch08;", "Message_Localised":"All done and you're clear to proceed, Commander.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Fletcher;", "From_Localised":"Fletcher", "Message":"$Commuter_AuthorityScan09;", "Message_Localised":"Can we hurry this up please, officer?", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Mariuz Draven;", "From_Localised":"Mariuz Draven", "Message":"$Commuter_HostileScan04;", "Message_Localised":"This is not the trading ship you are looking for.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Fullerton Horizons", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Fullerton Horizons", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Fullerton Horizons", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Fullerton Horizons", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$ShipName_PassengerLiner_Wedding;", "From_Localised":"Wedding Barge", "Message":"$ConvoyWedding_Patrol09;", "Message_Localised":"I don't know if I can go through with the wedding.", "Channel":"npc"
+
+	"From":"Song Refinery", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Song Refinery", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Song Refinery", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Song Refinery", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Roger Dodger;", "From_Localised":"Roger Dodger", "Message":"$Pirate_HunterHostileSC_Relevant05;", "Message_Localised":"The rumour was right... good job I found you first.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingChatter_Cordial;", "Message_Localised":"Welcome back, Commander.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch08;", "Message_Localised":"All done and you're clear to proceed, Commander.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Zvjezdan;", "From_Localised":"Zvjezdan", "Message":"$Commuter_AuthorityScan10;", "Message_Localised":"You'll get no trouble from me, officer.", "Channel":"npc"
+
+	"From":"$ShipName_PassengerLiner_Cruise;", "From_Localised":"Cruise Ship", "Message":"$CruiseLiner_SCPatrol01;", "Message_Localised":"And don't forget, this Liner is in the top 1% of all Liners out there.", "Channel":"npc"
+
+	"From":"$ShipName_PassengerLiner_Cruise;", "From_Localised":"Cruise Ship", "Message":"$CruiseLiner_SCPatrol05;", "Message_Localised":"This is your captain. Due to some unforeseen delays, we will be arriving at our next destination later than scheduled.", "Channel":"npc"
+
+	"From":"Song Refinery", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Song Refinery", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Song Refinery", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Song Refinery", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingChatter_Cordial;", "Message_Localised":"Welcome back, Commander.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Ryan Lenton;", "From_Localised":"Ryan Lenton", "Message":"$Commuter_AuthorityScan04;", "Message_Localised":"Is this really necessary?", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Jamie McKie;", "From_Localised":"Jamie McKie", "Message":"$Commuter_AuthorityScan01;", "Message_Localised":"Is there a problem here, officer?", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Spiglord;", "From_Localised":"Spiglord", "Message":"$Commuter_AuthorityScan01;", "Message_Localised":"Is there a problem here, officer?", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch09;", "Message_Localised":"Move along, Commander, we're done here.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Yhraletith;", "From_Localised":"Yhraletith", "Message":"$Commuter_AuthorityScan03;", "Message_Localised":"Will this take long? Iâ€™ve got a schedule to keep. ", "Channel":"npc"
+
+	"From":"Durrance Station", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Durrance Station", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Durrance Station", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ThankYouPassedStopAndSearch09;", "Message_Localised":"Move along, Commander, we're done here.", "Channel":"npc"
+
+	"From":"Durrance Station", "Message":"$STATION_docking_requestfailnotyetclear;", "Message_Localised":"Dock request denied, please clear bay doors.", "Channel":"npc"
+
+	"From":"Durrance Station", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Durrance Station", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Durrance Station", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Durrance Station", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Durrance Station", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingFailed_Distance:#distance=7500;", "Message_Localised":"Docking request denied, please approach to 7500m", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingChatter_Cordial;", "Message_Localised":"Welcome back, Commander.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Michelle Crothers;", "From_Localised":"Michelle Crothers", "Message":"$Commuter_HostileScan02;", "Message_Localised":"It is an offence to scan this vessel unless you are an authorised member of system security.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Michelle Crothers;", "From_Localised":"Michelle Crothers", "Message":"$Commuter_AuthorityScan02;", "Message_Localised":"How can I be of assistance?", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch06;", "Message_Localised":"We're done here pilot, move along.", "Channel":"npc"
+
+	"From":"McMonagle Hub", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"McMonagle Hub", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"McMonagle Hub", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch04;", "Message_Localised":"No crimes detected. You're free to go, Commander.", "Channel":"npc"
+
+	"From":"McMonagle Hub", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Antonio de Andrade Enterprise", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$OverwatchCriticalDamage02;", "Message_Localised":"See you in hell!", "Channel":"npc"
+
+	"From":"Antonio de Andrade Enterprise", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Antonio de Andrade Enterprise", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ThankYouPassedStopAndSearch02;", "Message_Localised":"You're clean. Proceed, pilot.", "Channel":"npc"
+
+	"From":"Antonio de Andrade Enterprise", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Virtanen Port", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Virtanen Port", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Virtanen Port", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Donaldson Orbital", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Donaldson Orbital", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Donaldson Orbital", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch08;", "Message_Localised":"All done and you're clear to proceed, Commander.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Thickskull;", "From_Localised":"Thickskull", "Message":"$Pirate_HunterHostileSC_Relevant02;", "Message_Localised":"I knew I'd find you eventually, all that tasty cargo!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Thickskull;", "From_Localised":"Thickskull", "Message":"$Pirate_StartInterdiction02;", "Message_Localised":"There's no escape!", "Channel":"npc"
+
+	"From":"Garriott Gateway", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Garriott Gateway", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Garriott Gateway", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Becky Griffiths;", "From_Localised":"Becky Griffiths", "Message":"$Commuter_AuthorityScan02;", "Message_Localised":"How can I be of assistance?", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Fernando Grassi;", "From_Localised":"Fernando Grassi", "Message":"$Smuggler_NearDeath02;", "Message_Localised":"I won't let it end like this!", "Channel":"npc"
+
+	"From":"Garriott Gateway", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$ShipName_PassengerLiner_Wedding;", "From_Localised":"Wedding Barge", "Message":"$ConvoyWedding_Patrol05;", "Message_Localised":"The ceremony will be starting soon! Please make sure your screens are set to the appropriate frequencies!", "Channel":"npc"
+
+	"From":"Dzhanibekov Ring", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Dzhanibekov Ring", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Dzhanibekov Ring", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ThankYouPassedStopAndSearch06;", "Message_Localised":"We're done here pilot, move along.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Sherron;", "From_Localised":"Sherron", "Message":"$Commuter_AuthorityScan04;", "Message_Localised":"Is this really necessary?", "Channel":"npc"
+
+	"From":"Dzhanibekov Ring", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Lee Settlement", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Lee Settlement", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Lee Settlement", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Lee Settlement", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Weehawk;", "From_Localised":"Weehawk", "Message":"$Pirate_HunterHostileSC_Relevant05;", "Message_Localised":"The rumour was right... good job I found you first.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingChatter_Friendly;", "Message_Localised":"It's great to see you again, Commander.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch05;", "Message_Localised":"Scan finished. Be about your business.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Rotsler Station", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Rotsler Station", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Rotsler Station", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Rotsler Station", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingChatter_Friendly;", "Message_Localised":"It's great to see you again, Commander.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$cmdr_decorate:#name=Sleepy Panjandrum;", "From_Localised":"CMDR Sleepy Panjandrum", "Message":"cutter incoming", "Channel":"local"
+
+	"From":"", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Sam Holmes;", "From_Localised":"Sam Holmes", "Message":"$Pirate_HunterHostileSC_Relevant04;", "Message_Localised":"Big haul like that, surprised you made it this far.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Sam Holmes;", "From_Localised":"Sam Holmes", "Message":"$Pirate_StartInterdiction07;", "Message_Localised":"I'm coming for you.", "Channel":"npc"
+
+	"From":"Rotsler Station", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Rotsler Station", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Rotsler Station", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ThankYouPassedStopAndSearch04;", "Message_Localised":"No crimes detected. You're free to go, Commander.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Caon;", "From_Localised":"Caon", "Message":"$Commuter_AuthorityScan05;", "Message_Localised":"On what grounds are you scanning this vessel, officer?", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=BorgenbrÃ¤u;", "From_Localised":"Borgenbrï¿ƒï¾¤u", "Message":"$Commuter_HostileScan04;", "Message_Localised":"This is not the trading ship you are looking for.", "Channel":"npc"
+
+	"From":"$ShipName_PassengerLiner_Cruise;", "From_Localised":"Cruise Ship", "Message":"$CruiseLiner_SCPatrol03;", "Message_Localised":"Today's cruise includes some delightful views, our flight attendants are on hand with full details.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Cooper;", "From_Localised":"Cooper", "Message":"$Pirate_HunterHostileSC_Relevant05;", "Message_Localised":"The rumour was right... good job I found you first.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingChatter_Friendly;", "Message_Localised":"It's great to see you again, Commander.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch09;", "Message_Localised":"Move along, Commander, we're done here.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Alexei Ostrowsky;", "From_Localised":"Alexei Ostrowsky", "Message":"$Commuter_HostileScan02;", "Message_Localised":"It is an offence to scan this vessel unless you are an authorised member of system security.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Alexei Ostrowsky;", "From_Localised":"Alexei Ostrowsky", "Message":"$Commuter_AuthorityScan03;", "Message_Localised":"Will this take long? Iâ€™ve got a schedule to keep. ", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=D-Rider;", "From_Localised":"D-Rider", "Message":"$Commuter_AuthorityScan06;", "Message_Localised":"What's going on here, officer?", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch04;", "Message_Localised":"No crimes detected. You're free to go, Commander.", "Channel":"npc"
+
+	"From":"Rotsler Station", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Rotsler Station", "Message":"$DockingFailed_Distance:#distance=7500;", "Message_Localised":"Docking request denied, please approach to 7500m", "Channel":"npc"
+
+	"From":"Rotsler Station", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Rotsler Station", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingChatter_Friendly;", "Message_Localised":"It's great to see you again, Commander.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch04;", "Message_Localised":"No crimes detected. You're free to go, Commander.", "Channel":"npc"
+
+	"From":"Bugrov Dock", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Bugrov Dock", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Bugrov Dock", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Cato;", "From_Localised":"Cato", "Message":"$Commuter_HostileScan03;", "Message_Localised":"We have no valuable cargo onboard, please halt your scan.", "Channel":"npc"
+
+	"From":"Bugrov Dock", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$ShipName_PassengerLiner_Cruise;", "From_Localised":"Cruise Ship", "Message":"$CruiseLiner_SCPatrol04;", "Message_Localised":"I'd like to direct your attention to our flight attendants for a brief safety demonstration.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingChatter_Friendly;", "Message_Localised":"It's great to see you again, Commander.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingChatter_Friendly;", "Message_Localised":"It's great to see you again, Commander.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$ShipName_PassengerLiner_Cruise;", "From_Localised":"Cruise Ship", "Message":"$CruiseLiner_SCPatrol02;", "Message_Localised":"We will be cruising in-system for a while, please feel free to take advantage of our in-flight entertainment.", "Channel":"npc"
+
+	"From":"$ShipName_PassengerLiner_Cruise;", "From_Localised":"Cruise Ship", "Message":"$CruiseLiner_SCPatrol05;", "Message_Localised":"This is your captain. Due to some unforeseen delays, we will be arriving at our next destination later than scheduled.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Adam Armstrong;", "From_Localised":"Adam Armstrong", "Message":"$Pirate_OnStartScanCargo04;", "Message_Localised":"What do you carry, I wonder?", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Adam Armstrong;", "From_Localised":"Adam Armstrong", "Message":"$Pirate_OnNoCargoFound10;", "Message_Localised":"There's nothing worth my while here.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$DockingChatter_Friendly;", "Message_Localised":"It's great to see you again, Commander.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire07;", "Message_Localised":"You've just made a big mistake.", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire08;", "Message_Localised":"Enemy fire incoming!", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire08;", "Message_Localised":"Enemy fire incoming!", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire02;", "Message_Localised":"You picked the wrong fight today, Commander.", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire07;", "Message_Localised":"You've just made a big mistake.", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire02;", "Message_Localised":"You picked the wrong fight today, Commander.", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire05;", "Message_Localised":"Incoming...", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire09;", "Message_Localised":"Allow me to show you the error of your ways.", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire09;", "Message_Localised":"Allow me to show you the error of your ways.", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire06;", "Message_Localised":"I'm taking hits!", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire05;", "Message_Localised":"Incoming...", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$DockingChatter_Friendly;", "Message_Localised":"It's great to see you again, Commander.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Selezen;", "From_Localised":"Selezen", "Message":"$Commuter_AuthorityScan05;", "Message_Localised":"On what grounds are you scanning this vessel, officer?", "Channel":"npc"
+
+	"From":"Howe Terminal", "Message":"$DockingChatter_Friendly;", "Message_Localised":"It's great to see you again, Commander.", "Channel":"npc"
+
+	"From":"Howe Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Howe Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Edward John Erickson;", "From_Localised":"Edward John Erickson", "Message":"$Commuter_AuthorityScan01;", "Message_Localised":"Is there a problem here, officer?", "Channel":"npc"
+
+	"From":"Howe Terminal", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch05;", "Message_Localised":"Scan finished. Be about your business.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Fenchuch Wenham;", "From_Localised":"Fenchuch Wenham", "Message":"$BountyHunter_ThankYouPassedStopAndSearch04;", "Message_Localised":"Sorry, mistaken identity. I thought you were someone else.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Nathan Lewis;", "From_Localised":"Nathan Lewis", "Message":"$Pirate_OnDeclarePiracyAttack03;", "Message_Localised":"Now you die, victim.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ArriveInvestigate01;", "Message_Localised":"Investigating reports of crime.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ArrivedAtInvestigationLocation05;", "Message_Localised":"A crime has been reported here. All ships will be scanned.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Nathan Lewis;", "From_Localised":"Nathan Lewis", "Message":"$BadKarmaCriticalDamage02;", "Message_Localised":"Impossible!", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ArriveInvestigate02;", "Message_Localised":"Incident response units on station.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ArrivedAtInvestigationLocation05;", "Message_Localised":"A crime has been reported here. All ships will be scanned.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch10;", "Message_Localised":"Everything looks fine, Commander. Have a good day.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch10;", "Message_Localised":"Everything looks fine, Commander. Have a good day.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_FinishedAtInvestigationLocation01;", "Message_Localised":"Scanning complete. Citizens, please return to your business.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch03;", "Message_Localised":"All clear. Carry on, pilot.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$DockingTresspassWarningComms;", "Message_Localised":"Unauthorised access infraction detected, clear starport immediately to avoid lethal response", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$DockingOffenceCleared;", "Message_Localised":"Starport infractions cleared, docking privileges restored.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$DockingChatter_Friendly;", "Message_Localised":"It's great to see you again, Commander.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch08;", "Message_Localised":"All done and you're clear to proceed, Commander.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire01;", "Message_Localised":"Bandit on my six...", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire01;", "Message_Localised":"Bandit on my six...", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$DockingChatter_Friendly;", "Message_Localised":"It's great to see you again, Commander.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$DockingFailed_Distance:#distance=7500;", "Message_Localised":"Docking request denied, please approach to 7500m", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$DockingChatter_Friendly;", "Message_Localised":"It's great to see you again, Commander.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$DockingChatter_Allied;", "Message_Localised":"An ally like you is always welcome here.", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$cmdr_decorate:#name=Pure Fox;", "From_Localised":"CMDR Pure Fox", "Message":"lol", "Channel":"player"
+
+	"From":"$npc_name_decorate:#name=Thex;", "From_Localised":"Thex", "Message":"$BadKarmaCriticalDamage05;", "Message_Localised":"No, no!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Holly Farmgeek;", "From_Localised":"Holly Farmgeek", "Message":"$BadKarmaCriticalDamage03;", "Message_Localised":"You fight a good fight!", "Channel":"npc"
+
+	"From":"Carpini Terminal", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$DockingChatter_Friendly;", "Message_Localised":"It's great to see you again, Commander.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch05;", "Message_Localised":"Scan finished. Be about your business.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire05;", "Message_Localised":"Incoming...", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire02;", "Message_Localised":"You picked the wrong fight today, Commander.", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire01;", "Message_Localised":"Bandit on my six...", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$DockingChatter_Friendly;", "Message_Localised":"It's great to see you again, Commander.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire06;", "Message_Localised":"I'm taking hits!", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire05;", "Message_Localised":"Incoming...", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire02;", "Message_Localised":"You picked the wrong fight today, Commander.", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire08;", "Message_Localised":"Enemy fire incoming!", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire04;", "Message_Localised":"Your ticket is about to get well and truly punched.", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire08;", "Message_Localised":"Enemy fire incoming!", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire04;", "Message_Localised":"Your ticket is about to get well and truly punched.", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire07;", "Message_Localised":"You've just made a big mistake.", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire08;", "Message_Localised":"Enemy fire incoming!", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire10;", "Message_Localised":"I'm under attack.", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire10;", "Message_Localised":"I'm under attack.", "Channel":"npc"
+
+	"From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire09;", "Message_Localised":"Allow me to show you the error of your ways.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$DockingChatter_Friendly;", "Message_Localised":"It's great to see you again, Commander.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch04;", "Message_Localised":"No crimes detected. You're free to go, Commander.", "Channel":"npc"
+
+	"From":"Howe Terminal", "Message":"$DockingChatter_Friendly;", "Message_Localised":"It's great to see you again, Commander.", "Channel":"npc"
+
+	"From":"Howe Terminal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Howe Terminal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Howe Terminal", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch05;", "Message_Localised":"Scan finished. Be about your business.", "Channel":"npc"
+
+	"From":"$ShipName_PassengerLiner_Cruise;", "From_Localised":"Cruise Ship", "Message":"$CruiseLiner_SCPatrol04;", "Message_Localised":"I'd like to direct your attention to our flight attendants for a brief safety demonstration.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Reshala Dienn;", "From_Localised":"Reshala Dienn", "Message":"$Pirate_StartInterdiction08;", "Message_Localised":"I've found my next target and it's you, Commander.", "Channel":"npc"
+
+	"From":"Godwin Hub", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Godwin Hub", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Godwin Hub", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Godwin Hub", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$DockingChatter_Friendly;", "Message_Localised":"It's great to see you again, Commander.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch05;", "Message_Localised":"Scan finished. Be about your business.", "Channel":"npc"
+
+	"From":"Rorschach Horizons", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_StartPatrol05;", "Message_Localised":"I'm heading out, Control. Hearing that rattle again, I'll see if I can lock it down.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_StartPatrol01;", "Message_Localised":"Patrol craft checking in. Pre-flight checks complete, I'm heading out.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_StartPatrol02;", "Message_Localised":"Tower, this is Patrol. Launch completed.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_StartPatrol01;", "Message_Localised":"Patrol craft checking in. Pre-flight checks complete, I'm heading out.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_StartPatrol05;", "Message_Localised":"I'm heading out, Control. Hearing that rattle again, I'll see if I can lock it down.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_StartPatrol01;", "Message_Localised":"Patrol craft checking in. Pre-flight checks complete, I'm heading out.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_StartPatrol02;", "Message_Localised":"Tower, this is Patrol. Launch completed.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_StartPatrol02;", "Message_Localised":"Tower, this is Patrol. Launch completed.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_StartPatrol02;", "Message_Localised":"Tower, this is Patrol. Launch completed.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_StartPatrol01;", "Message_Localised":"Patrol craft checking in. Pre-flight checks complete, I'm heading out.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_StartPatrol01;", "Message_Localised":"Patrol craft checking in. Pre-flight checks complete, I'm heading out.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ThankYouPassedStopAndSearch07;", "Message_Localised":"Your scan is clear. Carry on with your journey, Commander.", "Channel":"npc"
+
+	"From":"Fisher's Rest", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Fisher's Rest", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Fisher's Rest", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Fisher's Rest", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Henry Maxin;", "From_Localised":"Henry Maxin", "Message":"$Pirate_StartInterdiction06;", "Message_Localised":"Make it easy on yourself and submit.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Jagor;", "From_Localised":"Jagor", "Message":"$RefugeeFlotillaWar_Patrol04;", "Message_Localised":"Stay away, you don't want to get caught in the cross fire.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Jagor;", "From_Localised":"Jagor", "Message":"$RefugeeFlotillaWar_Patrol01;", "Message_Localised":"This war has gone too far, we're leavin' here before we get killed. ", "Channel":"npc"
+
+	"From":"Davidson Platform", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Davidson Platform", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Davidson Platform", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Davidson Platform", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"Ceres Tarn", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Ceres Tarn", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Ceres Tarn", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Ceres Tarn", "Message":"$DockingPadBlockWarningComms;", "Message_Localised":"Loitering infraction detected, clear pad approach immediately to avoid lethal response", "Channel":"npc"
+
+	"From":"Ceres Tarn", "Message":"$DockingOffenceCleared;", "Message_Localised":"Starport infractions cleared, docking privileges restored.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ThankYouPassedStopAndSearch02;", "Message_Localised":"You're clean. Proceed, pilot.", "Channel":"npc"
+
+	"From":"Ceres Tarn", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_EndPatrol04;", "Message_Localised":"Negative, Tower, I'm bingo on fuel, RTB.", "Channel":"npc"
+
+	"From":"Obsidian Orbital", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Obsidian Orbital", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Obsidian Orbital", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Obsidian Orbital", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation03;", "Message_Localised":"Crime scene cordon initialised, all ships must submit to police scan.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Ella Rosetta Berry;", "From_Localised":"Ella Rosetta Berry", "Message":"$Pirate_OnEnemyShipDetection05;", "Message_Localised":"Hostiles - just what I needed.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ArriveReinforcement03;", "Message_Localised":"We're responding to an emergency signal.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ThankYouPassedStopAndSearch08;", "Message_Localised":"All done and you're clear to proceed, Commander.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ThankYouPassedStopAndSearch06;", "Message_Localised":"We're done here pilot, move along.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=LordOsis;", "From_Localised":"LordOsis", "Message":"$BadKarmaCriticalDamage02;", "Message_Localised":"Impossible!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=CCIECHAZ;", "From_Localised":"CCIECHAZ", "Message":"$Smuggler_NearDeath01;", "Message_Localised":"Okay, okay, the cargo's all yours... This job isn't worth my life.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=INV Achenar's Might;", "From_Localised":"INV Achenar's Might", "Message":"$CapShipProximityWarning;", "Message_Localised":"Back off Commander. You are not authorised to be close.", "Channel":"npc"
+
+	"From":"Ceres Tarn", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Ceres Tarn", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Ceres Tarn", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Ceres Tarn", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Ceres Tarn", "Message":"$DockingPadBlockWarningComms;", "Message_Localised":"Loitering infraction detected, clear pad approach immediately to avoid lethal response", "Channel":"npc"
+
+	"From":"Ceres Tarn", "Message":"$DockingOffenceCleared;", "Message_Localised":"Starport infractions cleared, docking privileges restored.", "Channel":"npc"
+
+	"From":"Ceres Tarn", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Ceres Tarn", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Ceres Tarn", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=James Lock;", "From_Localised":"James Lock", "Message":"$Pirate_OnDeclarePiracyAttack02;", "Message_Localised":"You choose death then. Very well.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Edreamer Jix;", "From_Localised":"Edreamer Jix", "Message":"$MinerCriticalDamage04;", "Message_Localised":"I'm just a simple miner!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=James Lock;", "From_Localised":"James Lock", "Message":"$Pirate_OnDeclarePiracyAttack07;", "Message_Localised":"I consign your remains to the void.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_StartPatrol03;", "Message_Localised":"Receiving five by five, I'm in the air now, joining patrol.", "Channel":"npc"
+
+	"From":"Ceres Tarn", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Rick Hope;", "From_Localised":"Rick Hope", "Message":"$Pirate_OnStartScanCargo05;", "Message_Localised":"What treats do you carry?", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Rick Hope;", "From_Localised":"Rick Hope", "Message":"$Pirate_OnNoCargoFound05;", "Message_Localised":"How do you fools make a living?", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Ralph Finklestein;", "From_Localised":"Ralph Finklestein", "Message":"$Pirate_OnStartScanCargo05;", "Message_Localised":"What treats do you carry?", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Ralph Finklestein;", "From_Localised":"Ralph Finklestein", "Message":"$Pirate_OnDeclarePiracyAttack04;", "Message_Localised":"I'm gonna boil you up!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Ralph Finklestein;", "From_Localised":"Ralph Finklestein", "Message":"$BadKarmaCriticalDamage01;", "Message_Localised":"How is this happening?!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Alexis;", "From_Localised":"Alexis", "Message":"$Pirate_OnDeclarePiracyAttack01;", "Message_Localised":"I'll pick your bones clean, greenhorn.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Krukov;", "From_Localised":"Krukov", "Message":"$Escort_AttackDutyStart02;", "Message_Localised":"Hostiles detected, protect the lead ship at all costs.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Alexis;", "From_Localised":"Alexis", "Message":"$BadKarmaCriticalDamage01;", "Message_Localised":"How is this happening?!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Diana;", "From_Localised":"Diana", "Message":"$Pirate_OnDeclarePiracyAttack01;", "Message_Localised":"I'll pick your bones clean, greenhorn.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Diana;", "From_Localised":"Diana", "Message":"$BadKarmaCriticalDamage05;", "Message_Localised":"No, no!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=DANA FOX;", "From_Localised":"DANA FOX", "Message":"$BadKarmaCriticalDamage07;", "Message_Localised":"Too much damage!", "Channel":"npc"
+
+	"From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ArriveReinforcement03;", "Message_Localised":"We're responding to an emergency signal.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ArriveReinforcement02;", "Message_Localised":"Back-up has arrived.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ArriveInvestigate03;", "Message_Localised":"Crime response flight deployed.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation02;", "Message_Localised":"Cease and desist! Submit to authority scans immediately!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Kalma;", "From_Localised":"Kalma", "Message":"$BadKarmaCriticalDamage08;", "Message_Localised":"I've taken too many hits.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Empire;", "From_Localised":"Internal Security Service", "Message":"$OverwatchAttackRun02;", "Message_Localised":"Starting attack run.", "Channel":"npc"
+
+	"From":"Ceres Tarn", "Message":"$DockingChatter_Cordial;", "Message_Localised":"Welcome back, Commander.", "Channel":"npc"
+
+	"From":"Ceres Tarn", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Ceres Tarn", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Ceres Tarn", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation04;", "Message_Localised":"Rapid deployment unit deployed. Initiating scans of all ships in the area.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Howard P. Tillinghast;", "From_Localised":"Howard P. Tillinghast", "Message":"$Pirate_OnDeclarePiracyAttack05;", "Message_Localised":"You have no chance now.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArriveInvestigate04;", "Message_Localised":"Emergency response squad in position.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArriveInvestigate05;", "Message_Localised":"Police response unit in position.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Howard P. Tillinghast;", "From_Localised":"Howard P. Tillinghast", "Message":"$Pirate_OnDeclarePiracyAttack10;", "Message_Localised":"Die now, wretch!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Howard P. Tillinghast;", "From_Localised":"Howard P. Tillinghast", "Message":"$Pirate_OnDeclarePiracyAttack06;", "Message_Localised":"Prepare for death, fool!", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation01;", "Message_Localised":"All citizens must submit to authority scans. Do not attempt to flee!", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation06;", "Message_Localised":"Crime response team in situ. Security sweep and scan commencing.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_FinishedAtInvestigationLocation06;", "Message_Localised":"Rapid criminal investigation scans are finished. Please continue about your business.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ThankYouPassedStopAndSearch08;", "Message_Localised":"All done and you're clear to proceed, Commander.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArriveInvestigate05;", "Message_Localised":"Police response unit in position.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation04;", "Message_Localised":"Rapid deployment unit deployed. Initiating scans of all ships in the area.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Christopher Knutson;", "From_Localised":"Christopher Knutson", "Message":"$BadKarmaCriticalDamage10;", "Message_Localised":"You've scratched my paint!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Wicks;", "From_Localised":"Wicks", "Message":"$Smuggler_NearDeath01;", "Message_Localised":"Okay, okay, the cargo's all yours... This job isn't worth my life.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=hash;", "From_Localised":"hash", "Message":"$Pirate_OnDeclarePiracyAttack05;", "Message_Localised":"You have no chance now.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=hash;", "From_Localised":"hash", "Message":"$BadKarmaCriticalDamage02;", "Message_Localised":"Impossible!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Thomas K. Albright;", "From_Localised":"Thomas K. Albright", "Message":"$Pirate_OnDeclarePiracyAttack02;", "Message_Localised":"You choose death then. Very well.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ThankYouPassedStopAndSearch03;", "Message_Localised":"All clear. Carry on, pilot.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Pajuren Ravenwood;", "From_Localised":"Pajuren Ravenwood", "Message":"$BadKarmaCriticalDamage01;", "Message_Localised":"How is this happening?!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=jabba-j;", "From_Localised":"jabba-j", "Message":"$Escort_EscortJump06;", "Message_Localised":"I'm not staying here to die.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Svea Theotmalli Incognito;", "From_Localised":"Svea Theotmalli Incognito", "Message":"$Smuggler_NearDeath03;", "Message_Localised":"You almost had me there!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Mallam;", "From_Localised":"Mallam", "Message":"$Pirate_OnDeclarePiracyAttack04;", "Message_Localised":"I'm gonna boil you up!", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArriveInvestigate05;", "Message_Localised":"Police response unit in position.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation03;", "Message_Localised":"Crime scene cordon initialised, all ships must submit to police scan.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Mallam;", "From_Localised":"Mallam", "Message":"$BadKarmaCriticalDamage02;", "Message_Localised":"Impossible!", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_FinishedAtInvestigationLocation03;", "Message_Localised":"Crime scene cordon removed, go back about your business.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_FinishedAtInvestigationLocation02;", "Message_Localised":"Investigation is complete, you may be on your way.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ThankYouPassedStopAndSearch06;", "Message_Localised":"We're done here pilot, move along.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Robert Redden;", "From_Localised":"Robert Redden", "Message":"$BadKarmaCriticalDamage05;", "Message_Localised":"No, no!", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ThankYouPassedStopAndSearch09;", "Message_Localised":"Move along, Commander, we're done here.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Sarge March;", "From_Localised":"Sarge March", "Message":"$Smuggler_NearDeath01;", "Message_Localised":"Okay, okay, the cargo's all yours... This job isn't worth my life.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Wito;", "From_Localised":"Wito", "Message":"$BountyHunter_ThankYouPassedStopAndSearch05;", "Message_Localised":"Keep your nose clean, Commander. Now proceed with your journey.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Yuki Deacon;", "From_Localised":"Yuki Deacon", "Message":"$Escort_AttackDutyStart07;", "Message_Localised":"Tracking targets.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Max Rabbit;", "From_Localised":"Max Rabbit", "Message":"$Escort_AttackDutyStart02;", "Message_Localised":"Hostiles detected, protect the lead ship at all costs.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ThankYouPassedStopAndSearch02;", "Message_Localised":"You're clean. Proceed, pilot.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Scholten;", "From_Localised":"Scholten", "Message":"$Smuggler_NearDeath04;", "Message_Localised":"You're making a big mistake!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Lonestar;", "From_Localised":"Lonestar", "Message":"$BadKarmaCriticalDamage06;", "Message_Localised":"I hadn't expected this.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Joar Guttormsen;", "From_Localised":"Joar Guttormsen", "Message":"$BountyHunter_ThankYouPassedStopAndSearch03;", "Message_Localised":"I'll be watching you.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ThankYouPassedStopAndSearch11;", "Message_Localised":"We didn't find anything on you this time.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Vera Crumb;", "From_Localised":"Vera Crumb", "Message":"$Smuggler_NearDeath05;", "Message_Localised":"The boss isn't going to like this.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Sasan Izadpanah;", "From_Localised":"Sasan Izadpanah", "Message":"$Pirate_OnDeclarePiracyAttack04;", "Message_Localised":"I'm gonna boil you up!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Brian Nisbet;", "From_Localised":"Brian Nisbet", "Message":"$Police_ThankYouPassedStopAndSearch02;", "Message_Localised":"You're clean. Proceed, pilot.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArriveReinforcement05;", "Message_Localised":"Emergency reserve force deploying.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArriveReinforcement01;", "Message_Localised":"Reinforcements incoming.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Ozzymandias;", "From_Localised":"Ozzymandias", "Message":"$Trader_AttackRun04;", "Message_Localised":"Get away from me, you pirating scum!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Tobe-Meister;", "From_Localised":"Tobe-Meister", "Message":"$Pirate_OnStartScanCargo07;", "Message_Localised":"Do you have anything of value?", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Tobe-Meister;", "From_Localised":"Tobe-Meister", "Message":"$Pirate_OnNoCargoFound05;", "Message_Localised":"How do you fools make a living?", "Channel":"npc"
+
+	"From":"Alcazar's Hope", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Alcazar's Hope", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Alcazar's Hope", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_EndPatrol04;", "Message_Localised":"Negative, Tower, I'm bingo on fuel, RTB.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_StartPatrol05;", "Message_Localised":"I'm heading out, Control. Hearing that rattle again, I'll see if I can lock it down.", "Channel":"npc"
+
+	"From":"Alcazar's Hope", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Hexcess Gaymurs;", "From_Localised":"Hexcess Gaymurs", "Message":"$Escort_AttackDutyStart03;", "Message_Localised":"Incoming aggressors, time to lock and load.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Braaten;", "From_Localised":"Braaten", "Message":"$BadKarmaCriticalDamage01;", "Message_Localised":"How is this happening?!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Chief Jonathan Cook;", "From_Localised":"Chief Jonathan Cook", "Message":"$Pirate_OnDeclarePiracyAttack01;", "Message_Localised":"I'll pick your bones clean, greenhorn.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Fujisawa;", "From_Localised":"Fujisawa", "Message":"$Escort_AttackDutyStart08;", "Message_Localised":"Combat protocols engaged.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Fujisawa;", "From_Localised":"Fujisawa", "Message":"$Escort_NearDeath10;", "Message_Localised":"My ship is almost done for. Help!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Chief Jonathan Cook;", "From_Localised":"Chief Jonathan Cook", "Message":"$BadKarmaCriticalDamage04;", "Message_Localised":"I don't believe it!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Azeem mir;", "From_Localised":"Azeem mir", "Message":"$BadKarmaCriticalDamage02;", "Message_Localised":"Impossible!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Buoy Racer;", "From_Localised":"Buoy Racer", "Message":"$Pirate_OnDeclarePiracyAttack01;", "Message_Localised":"I'll pick your bones clean, greenhorn.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ThankYouPassedStopAndSearch04;", "Message_Localised":"No crimes detected. You're free to go, Commander.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Riddermark;", "From_Localised":"Riddermark", "Message":"$BadKarmaCriticalDamage07;", "Message_Localised":"Too much damage!", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Michael Ellis;", "From_Localised":"Michael Ellis", "Message":"$Miner_OnJumpNoAsteroids03;", "Message_Localised":"Location running dry, heading home.", "Channel":"npc"
+
+	"From":"Alcazar's Hope", "Message":"$DockingFailed_Distance:#distance=7500;", "Message_Localised":"Docking request denied, please approach to 7500m", "Channel":"npc"
+
+	"From":"Alcazar's Hope", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Alcazar's Hope", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Alcazar's Hope", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_EndPatrol05;", "Message_Localised":"Patrol completed, Command, I'm heading home.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_EndPatrol04;", "Message_Localised":"Negative, Tower, I'm bingo on fuel, RTB.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_EndPatrol05;", "Message_Localised":"Patrol completed, Command, I'm heading home.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_StartPatrol02;", "Message_Localised":"Tower, this is Patrol. Launch completed.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch08;", "Message_Localised":"All done and you're clear to proceed, Commander.", "Channel":"npc"
+
+	"From":"Alcazar's Hope", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Daniel Fandrich;", "From_Localised":"Daniel Fandrich", "Message":"$Pirate_HunterHostileSC_Relevant02;", "Message_Localised":"I knew I'd find you eventually, all that tasty cargo!", "Channel":"npc"
+
+	"From":"Sisters' Refuge", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Sisters' Refuge", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Sisters' Refuge", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"Sisters' Refuge", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Christian COUTURIER;", "From_Localised":"Christian COUTURIER", "Message":"$Pirate_HunterHostileSC_Relevant04;", "Message_Localised":"Big haul like that, surprised you made it this far.", "Channel":"npc"
+
+	"From":"Holden Horizons", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Holden Horizons", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Holden Horizons", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Fidod;", "From_Localised":"Fidod", "Message":"$Commuter_AuthorityScan03;", "Message_Localised":"Will this take long? Iâ€™ve got a schedule to keep. ", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Hunter Howitt;", "From_Localised":"Hunter Howitt", "Message":"$Commuter_AuthorityScan04;", "Message_Localised":"Is this really necessary?", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Lu-Tze Lobsang Ludd;", "From_Localised":"Lu-Tze Lobsang Ludd", "Message":"$Commuter_AuthorityScan04;", "Message_Localised":"Is this really necessary?", "Channel":"npc"
+
+	"From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_ThankYouPassedStopAndSearch04;", "Message_Localised":"No crimes detected. You're free to go, Commander.", "Channel":"npc"
+
+	"From":"Holden Horizons", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc"
+
+	"From":"$npc_name_decorate:#name=Vic-E;", "From_Localised":"Vic-E", "Message":"$Pirate_HunterHostileSC_Relevant03;", "Message_Localised":"I've come a long way for what's in your hold, don't try to run!", "Channel":"npc"
+
+	"From":"Avogadro Holdings", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Avogadro Holdings", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Avogadro Holdings", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ThankYouPassedStopAndSearch07;", "Message_Localised":"Your scan is clear. Carry on with your journey, Commander.", "Channel":"npc"
+
+	"From":"Koontz Hub", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc"
+
+	"From":"Koontz Hub", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc"
+
+	"From":"Koontz Hub", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_StartPatrol04;", "Message_Localised":"I'm away, heading to patrol route alpha now.", "Channel":"npc"
+
+	"From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_StartPatrol04;", "Message_Localised":"I'm away, heading to patrol route alpha now.", "Channel":"npc"
+
+
+
+SendText:
+	"To":"local", "Message":"Hello?"
+
+	"To":"local", "Message":"Any other humans around?"
+
+	"To":"local", "Message":"Who else is out there"
+
+	"To":"local", "Message":"Get out of 22"
+
+	"To":"local", "Message":"how do I dm?"
+
+	"To":"local", "Message":"direct message, as opposed to local"
+
+	"To":"local", "Message":"I'll just wait for the station to do it for me"
+
+	"To":"local", "Message":"Alah Hu Akbar!!!"
+
+	"To":"local", "Message":"I've come to pay my respects"
+
+	"To":"local", "Message":"Howdy Yall"
+
+	"To":"local", "Message":"Hello All"
+
+
+
