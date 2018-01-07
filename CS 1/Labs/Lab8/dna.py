@@ -38,8 +38,7 @@ def is_pairing(dna_seq1, dna_seq2):
 
 """Returns a boolean value indicating whether or not the sequence is palindromic"""
 def is_palindrome(dna_seq):
-    dna_seq2 = reverseTailRec(dna_seq)
-    return is_match(dna_seq, dna_seq2)
+    return is_match(dna_seq, reverseTailRec(dna_seq))
 
 """Replaces value at idx with base recursively and non-destructively"""
 def substitution(dna_seq, idx, base):
@@ -74,13 +73,16 @@ def deletion(dna_seq, idx, segment_size):
 def duplication(dna_seq, idx, segment_size):
     if segment_size == 0:
         return dna_seq
-    elif dna_seq == None:
+    elif dna_seq is None:
         raise IndexError("Sequence Index Out of Range")
     elif idx > 0:
-        return duplication(dna_seq, idx - 1, segment_size)
-    else:
+        return Node(dna_seq.value, duplication(dna_seq.rest, idx - 1, segment_size))
+    elif segment_size > 0:
         temp = insertAt(segment_size - idx, dna_seq.value, dna_seq)
-        return Node(dna_seq.value, duplication(temp.value, idx - 1, segment_size - 1))
+        if segment_size -1 > 0:
+            return Node(dna_seq.value, duplication(temp.rest, idx - 1, segment_size - 1))
+        else:
+            return Node(dna_seq.value, temp.rest)
 """----------------------------------------------------------------------------"""
 
 """-----------------------------<Helper Functions>-----------------------------"""

@@ -8,6 +8,7 @@ File: dna_tester.py
 import dna
 import linked_code  # in case student's dna module didn't import
 
+
 def test1():
     """
     Tests function to convert a string
@@ -51,21 +52,21 @@ def test2():
     dna_seq = linked_code.insertAt(2, 'G', dna_seq)
     dna_str3 = dna.convert_to_string(dna_seq)
     print(dna_str3 == "TAG")
-    
-    
+
+
 def test3():
     """
     Tests is_match function.
     :return: None
     """
-    
+
     print("Test3: testing is_match")
-    
+
     dna_seq1 = None
     dna_seq2 = None
-    
+
     print(dna.is_match(dna_seq1, dna_seq2) == True, end=" ")
-    
+
     dna_seq2 = linked_code.insertAt(0, "A", dna_seq2)
     print(dna.is_match(dna_seq1, dna_seq2) == False, end=" ")
     print(dna.is_match(dna_seq2, dna_seq1) == False, end=" ")
@@ -238,8 +239,8 @@ def test7():
 
     dna_seq3 = dna.insertion(dna_seq1, dna_seq2, 0)
     print(dna_seq3.value == "G" and dna_seq3.rest.value == "C" \
-        and dna_seq3.rest.rest.value == "T" \
-        and dna_seq3.rest.rest.rest.value == "A"
+          and dna_seq3.rest.rest.value == "T" \
+          and dna_seq3.rest.rest.rest.value == "A"
           and linked_code.lengthRec(dna_seq3) == 4, end=" ")
 
     dna_seq3 = dna.insertion(dna_seq1, dna_seq2, 1)
@@ -289,7 +290,7 @@ def test8():
           linked_code.lengthRec(dna_seq2) == 3, end=" ")
     dna_seq2 = dna.deletion(dna_seq1, 1, 1)
     print(dna_seq2.value == "A" and \
-        dna_seq2.rest.value == "G" and \
+          dna_seq2.rest.value == "G" and \
           linked_code.lengthRec(dna_seq2) == 3, end=" ")
     dna_seq2 = dna.deletion(dna_seq1, 2, 1)
     print(dna_seq2.value == "A" and \
@@ -355,7 +356,7 @@ def test9():
 
     dna_seq2 = dna.duplication(dna_seq1, 0, 1)
     print(dna_seq2.value == "A" and \
-        dna_seq2.rest.value == "A" and \
+          dna_seq2.rest.value == "A" and \
           linked_code.lengthRec(dna_seq2) == 2, end=" ")
 
     dna_seq1 = linked_code.insertAt(1, "T", dna_seq1)
@@ -367,19 +368,34 @@ def test9():
           linked_code.lengthRec(dna_seq2) == 4, end=" ")
 
     dna_seq2 = dna.duplication(dna_seq1, 1, 1)
+    value = dna_seq2.value == "A" and \
+          dna_seq2.rest.value == "T" and \
+          dna_seq2.rest.rest.value == "T" and \
+          linked_code.lengthRec(dna_seq2) == 4
     print(dna_seq2.value == "A" and \
           dna_seq2.rest.value == "T" and \
           dna_seq2.rest.rest.value == "T" and \
           linked_code.lengthRec(dna_seq2) == 4, end=" ")
 
     dna_seq2 = dna.duplication(dna_seq1, 2, 1)
+    value = dna_seq2.value == "A" and \
+          dna_seq2.rest.value == "T" and \
+          dna_seq2.rest.rest.value == "C" and \
+          dna_seq2.rest.rest.rest.value == "C" and \
+          linked_code.lengthRec(dna_seq2) == 4
     print(dna_seq2.value == "A" and \
           dna_seq2.rest.value == "T" and \
           dna_seq2.rest.rest.value == "C" and \
-        dna_seq2.rest.rest.rest.value == "C" and \
+          dna_seq2.rest.rest.rest.value == "C" and \
           linked_code.lengthRec(dna_seq2) == 4, end=" ")
 
     dna_seq2 = dna.duplication(dna_seq1, 0, 2)
+    value = dna_seq2.value == "A" and \
+          dna_seq2.rest.value == "T" and \
+          dna_seq2.rest.rest.value == "A" and \
+          dna_seq2.rest.rest.rest.value == "T" and \
+          dna_seq2.rest.rest.rest.rest.value == "C" and \
+          linked_code.lengthRec(dna_seq2) == 5
     print(dna_seq2.value == "A" and \
           dna_seq2.rest.value == "T" and \
           dna_seq2.rest.rest.value == "A" and \
@@ -388,6 +404,11 @@ def test9():
           linked_code.lengthRec(dna_seq2) == 5, end=" ")
 
     dna_seq2 = dna.duplication(dna_seq1, 1, 2)
+    value = dna_seq2.value == "A" and \
+          dna_seq2.rest.value == "T" and \
+          dna_seq2.rest.rest.value == "C" and \
+          dna_seq2.rest.rest.rest.value == "T" and \
+          dna_seq2.rest.rest.rest.rest.value == "C"
     print(dna_seq2.value == "A" and \
           dna_seq2.rest.value == "T" and \
           dna_seq2.rest.rest.value == "C" and \
@@ -454,6 +475,7 @@ def test_individual():
     test7()
     test8()
     test9()
+
 
 test_individual()
 test_all()
